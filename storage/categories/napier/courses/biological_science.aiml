@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>BIOLOGICAL SCIENCE</pattern>
+    <template>
+        <think><set name = "topic">bio</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>BIOLOGICAL * </pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>
+
+<category>
+    <pattern>BIOLOGY *</pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>
+
+<category>
+    <pattern>BIOLOGY COURSES</pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>   
+
+<category>
+    <pattern>BIO COURSES</pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>  
+
+<category>
+    <pattern>BIO *</pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>  
+
+<category>
+    <pattern>_ BIOLOGY _</pattern>
+    <template><srai>BIOLOGICAL SCIENCE</srai></template>  
+</category>
+
+<topic name="bio">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 5 results \n
+        1. Animal and Conservation Biology - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-fulltime">Full-time</a> 
+        | <a href="https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-parttime">Part Time</a>
+        2. Applied Microbiology - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-parttime">Part Time</a>
+        3. Biological Science - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-fulltime">Full-time</a> |
+         <a href="https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-parttime">Part Time</a>
+        4. Biomedical Science - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-fulltime">Full-time</a> |
+         <a href="https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-parttime">Part Time</a>
+        5. Marine and Freshwater Biology - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-parttime">Part Time</a>
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD*</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 2 results \n
+        1. Biomedical Science - MSc <a href="https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-parttime">Part Time</a>
+        2. Drug Design and Biomedical Science - MSc <a href="https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-parttime">Part Time</a>
+        3. Medical Biotechnology - MSc <a href="https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-parttime">Part Time</a>
+        4. Wildlife Biology and Conservation - MSc <a href="https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-parttime">Part Time</a>
+        5. Wildlife Biology and Conservation - MSc <a href="https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-distance-learning">Distance Learning</a>
+        6. Pharmaceutical and Analytical Science - <a href="https://www.napier.ac.uk/courses/msc-pharmaceutical-and-analytical-science-postgraduate-fulltime">Full-time</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD*</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>COMPUTING</pattern>
+    <template>
+        <think><set name = "topic">computing</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>COMPUTING *</pattern>
+    <template><srai>COMPUTING</srai></template>  
+</category>
+
+<category>
+    <pattern>COMPUTER SCIENCE *</pattern>
+    <template><srai>COMPUTING</srai></template>  
+</category>
+
+<category>
+    <pattern>_ COMPUTING _</pattern>
+    <template><srai>COMPUTING</srai></template>  
+</category>
+
+
+<category>
+    <pattern>_ COMPUTER _</pattern>
+    <template><srai>COMPUTING</srai></template>  
+</category>
+
+<category>
+    <pattern>_ COMPUTER SCIENCE _</pattern>
+    <template><srai>COMPUTING</srai></template>  
+</category>
+
+<topic name="computing">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 17 results \n
+        1. Animation for Games - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-(hons)-bsc-(hons)-animation-for-games-(top-up)-ft-undergraduate-fulltime">Full-time</a> 
+        2. Computer Systems and Networks - BEng (Hons) <a href="https://www.napier.ac.uk/courses/beng-hons-computer-systems-and-networks-undergraduate-fulltime">Full-time</a> 
+        3. Computing - BEng/BEng (Hons) <a href="https://www.napier.ac.uk/courses/bengbeng-hons-computing-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bscbsc-hons-computing-undergraduate-parttime">Part-Time</a>
+        4. Computing Top-Up - BSc <a href="https://www.napier.ac.uk/courses/bsc-bsc-computing-global-online-topup-ft-undergraduate-online-learning">Online Learning</a>
+        5. Computer Science - BSc/BSc (Hons) <a href="https://www.napier.ac.uk/courses/bscbsc-(hons)-computer-science-undergraduate-fulltime">Full-time</a> 
+        6. Cybersecurity and Forensics - BEng (Hons) <a href="https://www.napier.ac.uk/courses/beng-hons-cybersecurity-and-forensics-undergraduate-fulltime">Full-time</a> 
+        7. Data Science - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-data-science---undergraduate-fulltime">Full-time</a> 
+        8. Digital Media and Interaction Design - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-digital-media-and-interaction-design-undergraduate-fulltime">Full-time</a> 
+        9. Digital Media and Interaction Design Global - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-digital-media-and-interaction-design-global-undergraduate-fulltime">Full-time</a> 
+        10.Games Development - BSc/BSc (Hons) <a href="https://www.napier.ac.uk/courses/bscbsc-hons-games-development-undergraduate-fulltime">Full-time</a> 
+        11.Informatics for Business - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-(hons)-informatics-for-business-undergraduate-fulltime">Full-time</a> 
+        12.Software Engineering - BEng/BEng (Hons) <a href="https://www.napier.ac.uk/courses/bengbeng-hons-software-engineering-undergraduate-fulltime">Full-time</a> 
+        13.Software Engineering - MEng <a href="https://www.napier.ac.uk/courses/meng-software-engineering-undergraduate-fulltime">Full-time</a> 
+        14.Sound Design - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-sound-design-undergraduate-fulltime">Full-time</a> 
+        15.User Experience (UX) Design - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-user-experience-ux-design-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-user-experience-ux-design-undergraduate-parttime">Part-Time</a>
+        16.Web Design and Development - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-web-design-and-development-undergraduate-fulltime">Full-time</a> 
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 25 results \n
+        1. Advanced Security and Digital Forensics - MSc <a href="https://www.napier.ac.uk/courses/msc-advanced-security-and-digital-forensics-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-advanced-security-and-digital-forensics-postgraduate-parttime">Part-Time</a>
+        2. Advanced Security and Digital Forensics - MSc <a href="https://www.napier.ac.uk/courses/msc-advanced-security-and-digital-forensics-postgraduate-distance-learning">Distance learning</a>
+        3. Business Information Technology - MSc <a href="https://www.napier.ac.uk/courses/msc-business-information-technology-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-business-information-technology-postgraduate-parttime">Part-Time</a>
+        4. Computing - MSc <a href="https://www.napier.ac.uk/courses/msc-computing-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-computing-postgraduate-parttime">Part-Time</a>
+        5. Computing with Professional Placement - MSc <a href="https://www.napier.ac.uk/courses/msc-computing-with-professional-placement-postgraduate-fulltime">Full-time</a> 
+        6. Data Engineering - MSc <a href="https://www.napier.ac.uk/courses/msc-data-engineering-postgraduate-online-learning">Online Learning</a>
+        7. Sound Design - MSc <a href="https://www.napier.ac.uk/courses/msc-sound-design-postgraduate-distance-learning">Distance learning</a>
+        8. Advanced Security and Cybercrime (Executive Masters) - MSc <a href="https://www.napier.ac.uk/courses/msc-advanced-security-and-cybercrime-postgraduate-parttime">Part-Time</a>
+        9. Data Science - MSc <a href="https://www.napier.ac.uk/courses/msc-data-science-postgraduate-parttime">Part-Time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-data-science-postgraduate-online-learning">Online Learning</a>
+        10.Project and Programme Management (Executive Masters) - MSc  <a href="https://www.napier.ac.uk/courses/msc-project-and-programme-management-practice-based-postgraduate-parttime">Part-Time</a>
+        12.Strategic ICT Leadership (Executive Masters) - MSc <a href="https://www.napier.ac.uk/courses/msc-strategic-ict-leadership-postgraduate-parttime">Part-Time</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

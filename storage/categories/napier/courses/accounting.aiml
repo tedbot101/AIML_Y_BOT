@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>ACCOUNTING AND FINANCE</pattern>
+    <template>
+        <think><set name = "topic">accounting</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>ACCOUNTING *</pattern>
+    <template><srai>ACCOUNTING AND FINANCE</srai></template>  
+</category>
+
+<category>
+    <pattern>ACCOUNTING * COURSE *</pattern>
+    <template><srai>ACCOUNTING AND FINANCE</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ ACCOUNTING _</pattern>
+    <template><srai>ACCOUNTING AND FINANCE</srai></template>  
+</category>
+
+<topic name="accounting">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found some results \n
+        1. Accounting - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-accounting-undergraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/ba-hons-accounting-undergraduate-parttime">Part-time</a>
+        2. Accounting with Corporate Finance - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-accounting-with-corporate-finance-undergraduate-fulltime">Full-time</a>
+        3. Accounting and Finance (advanced entry) - BA/BA (Hons) <a href="https://www.napier.ac.uk/courses/baba-hons-accounting-and-finance-undergraduate-fulltime">Full-time</a>
+        4. Business Management with Finance top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-with-finance-online-undergraduate-online-learning">Online learning</a>
+        5. Financial Services - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-financial-services-undergraduate-fulltime">Full-time</a>
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        1. Accounting - MSc <a href="https://www.napier.ac.uk/courses/msc-accounting-postgraduate-fulltime">Full-time</a>
+        2. Business Management (Finance) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-finance-postgraduate-online-learning">Online learning</a>
+        3. Business Management (Banking) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-banking-postgraduate-online-learning">Online learning</a>
+        4. International Finance - MSc <a href="">Full-time</a>
+        5. MBA (Banking) - MBA <a href="https://www.napier.ac.uk/courses/mba---m-b-a-banking-postgraduate-online-learning">Online learning</a>
+        6. MBA (Finance) - MBA <a href="https://www.napier.ac.uk/courses/mba---m-b-a-finance-postgraduate-online-learning">Online learning</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

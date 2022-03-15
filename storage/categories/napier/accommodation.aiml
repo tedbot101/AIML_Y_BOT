@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+<category>
+    <pattern>ACCOMMODATION</pattern>
+    <template>
+        Edinburgh Napier currently houses 1,240 students over three sites in and around the city centre. Our accommodation is affordable, modern and supported by a dedicated team of University staff.
+        <br/>
+        Our accommodations are available at 
+        <br/>1. Bainfield
+        <br/>2. Orwell Terrace
+        <br/>3. Slateford Road
+    </template>
+</category>
+<category>
+        <pattern>BAINFIELD</pattern>
+        <template>
+            <think>bainfield</think>
+            Opened in September 2013, this development features a single occupancy room with a 3/4 double bed and private en-suite shower room/toilet and a small number of private studios. Suitable for undergraduate students under 20 years old.
+        </template>
+</category>
+
+<topic name="bainfield">
+    <category>
+        <pattern>plans</pattern>
+        <template>
+            Standard en-suite: : £158 per week, total rent for 50-week tenancy £8,012.35 and 39-week tenancy £6,184.18 <br/>
+            Premium bedroom: £179 per week, total rent for 50-week tenancy £9,077.35<br/>
+            Studio flat: £174.02 per week, total rent for 50-week tenancy £8,825.30
+        </template>
+    </category>
+
+    <category>
+        <pattern>location</pattern>
+        <template>
+    
+        </template>
+    </category>
+</topic>
+
+<category>
+    <pattern>ORWELL</pattern>
+    <template>
+        <think>orwell</think>
+        Opened in autumn 2016 and our newest accommodation site, Orwell Terrace is close to the action of downtown, minutes from Haymarket station, and well-connected to our campuses via public transport.
+    </template>
+</category>
+
+<topic name="orwell">
+    <category>
+        <pattern></pattern>
+        <template>
+            
+        </template>
+    </category>
+</topic>
+
+<category>
+    <pattern>SLATEFORD</pattern>
+    <template>
+        <think>slateford</think>
+    </template>
+</category>
+
+<topic name="slateford">
+    <category>
+        <pattern></pattern>
+        <template>
+            A few minutes' walk from our Merchiston campus, Slateford Road is situated in a quiet residential neighbourhood with excellent transport links and is close to local amenities.
+        </template>
+    </category>
+</topic>
+
+</aiml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>NURSING</pattern>
+    <template>
+        <think><set name = "topic">nursing</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+<category>
+    <pattern>MIDWIFERY *</pattern>
+    <template><srai>NURSING</srai></template>  
+</category> 
+
+<category>
+    <pattern>NURSING *</pattern>
+    <template><srai>NURSING</srai></template>  
+</category>
+
+<category>
+    <pattern>MIDWIFERY *</pattern>
+    <template><srai>NURSING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ NURSING _</pattern>
+    <template><srai>NURSING</srai></template>  
+</category>
+<category>
+    <pattern>_ MIDWIFERY _</pattern>
+    <template><srai>NURSING</srai></template>  
+</category>
+
+<topic name="nursing">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 7 courses:
+        1. Midwifery - BM <a href="https://www.napier.ac.uk/courses/bm-midwifery-undergraduate-fulltime">Full-Time</a>
+        2. Nursing Adult - BN <a href="https://www.napier.ac.uk/courses/bn-nursing-adult-undergraduate-fulltime">Full-Time</a>
+        3. Nursing (Child Health) - BN <a href="https://www.napier.ac.uk/courses/bn-nursing-child-undergraduate-fulltime">Full-Time</a>
+        4. Nursing Learning Disabilities - BN <a href="https://www.napier.ac.uk/courses/bn-nursing-learning-disabilities-undergraduate-fulltime">Full-Time</a>
+        5. Nursing Mental Health - BN <a href="https://www.napier.ac.uk/courses/bn-nursing-mental-health-undergraduate-fulltime">Full-Time</a>
+        6. Nursing Studies - BSc <a href="https://www.napier.ac.uk/courses/bsc-nursing-studies--option-rich-programme-undergraduate-parttime">Part-Time</a>
+        7. Nursing Studies Global Online - BSc <a href="https://www.napier.ac.uk/courses/bsc-nursing-studies-global-online-undergraduate-online-learning">Online learning</a>
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD*</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 8 courses:
+        1. Advanced Clinical Practice (named speciality) - MSc <a href="https://www.napier.ac.uk/courses/msc-advanced-clinical-practice-named-speciality---postgraduate-parttime">Part-Time</a>
+        2. Healthcare Management - MSc <a href="https://www.napier.ac.uk/courses/msc-healthcare-management-postgraduate-fulltime">Full-Time</a> 
+        | <a href="https://www.napier.ac.uk/courses/msc-healthcare-management-postgraduate-parttime">Part-Time</a>
+        3. Midwifery - MM <a href="https://www.napier.ac.uk/courses/mm-masters-of-midwifery-postgraduate-fulltime">Full-Time</a>
+        4. Midwifery (Short) - MSc <a href="https://www.napier.ac.uk/courses/msc-in-midwifery-short-postgraduate-fulltime">Full-Time</a>
+        5. Midwifery (Short) - PgDip <a href="https://www.napier.ac.uk/courses/pgdip-in-midwifery-short-postgraduate-fulltime">Full-Time</a>
+        6. Nursing (Pre-Registration) Adult Health - MSc <a href="https://www.napier.ac.uk/courses/msc-nursing-adult-health-postgraduate-fulltime">Full-Time</a>
+        7. Nursing (Pre-Registration) Mental Health - MSc <a href="https://www.napier.ac.uk/courses/msc-nursing-mental-health-postgraduate-fulltime">Full-Time</a>
+        8. Practice Learning (Social Services) - Graduate Certificate <a href="https://www.napier.ac.uk/courses/graduate-certificate-practice-learning-(social-services)-undergraduate-parttime">Part-Time</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD*</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

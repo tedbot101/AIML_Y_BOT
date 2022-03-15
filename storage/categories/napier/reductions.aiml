@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<!-- 
+    QUESTION 1
+ -->
+<category>
+    <pattern>TELL ME ABOUT EDINBURGH NAPIER UNIVERSITY</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>HISTORY ABOUT EDINBURGH NAPIER UNIVERSITY</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>I WANT TO KNOW ABOUT EDINBURGH NAPIER UNIVERSIRY</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>HISTORY ABOUT EDINBURGH NAPIER UNIVERSITY</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>* ABOUT UNIVERSITY</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>_ EDINBURGH NAPIER UNIVERSITY _</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+<category>
+    <pattern>_ EDINBURGH NAPIER _</pattern>
+    <template><srai>ABOUTNAPIER</srai></template>
+</category>
+
+
+
+<!-- 
+    QUESTION 2
+ -->
+ <category>
+    <pattern>WHAT ARE THE SCHOOLS IN EDINBURGH NAPIER UNIVERSITY</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE STUDIES IN EDINBURGH NAPIER UNIVERSITY</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+<!-- 
+wild cards
+-->
+<category>
+    <pattern>SCHOOLS * UNIVERSITY</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+<category>
+    <pattern>WHAT * SCHOOLS * </pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+
+<category>
+    <pattern>TELL * SCHOOL *</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+<!-- 
+symbolic
+-->
+<category>
+    <pattern>_ SCHOOLS _</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+<category>
+    <pattern>_ STDUIES _</pattern>
+    <template><srai>SCHOOL</srai></template>
+</category>
+
+<!-- 
+    QUESTION 2
+ -->
+ <category>
+    <pattern>WHERE IS ENDINBUGH NAPIER UNIVERSITY LOCATED</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+<!-- 
+wild cards
+-->
+<category>
+    <pattern>WHERE * EDINBURGH NAPIER *</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+<category>
+    <pattern>WHERE * EDINBURGH NAPIER UNIVERSITY LOCATED</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+<category>
+    <pattern>WHERE * UNINVERSITY LOCATED</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+<category>
+    <pattern>WHAT * LOCATION *</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+<!-- 
+symbolic
+-->
+<category>
+    <pattern>_ LOCATION _</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+<category>
+    <pattern>_ LOCATED _</pattern>
+    <template><srai>LOCATION</srai></template>
+</category>
+
+</aiml>

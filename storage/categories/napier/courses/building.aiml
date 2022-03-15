@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>BUILDING</pattern>
+    <template>
+        <think><set name = "topic">build</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>BUILDING *</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<category>
+    <pattern>ARCHITECTURAL *</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+
+<category>
+    <pattern>SURVEYING</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<category>
+    <pattern>SURVEYING *</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<category>
+    <pattern>BUILDING AND SURVEYING</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ BUILDING _</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<category>
+    <pattern>_ SURVEYING _</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<category>
+    <pattern>_ ARCHITECTURAL _</pattern>
+    <template><srai>BUILDING</srai></template>  
+</category>
+
+<topic name="build">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 7 results \n
+        1. Architectural Technology - BSc/BSc (Hons) <a href="https://www.napier.ac.uk/courses/bscbsc-hons-architectural-technology-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bscbsc-hons-architectural-technology-undergraduate-parttime">Part-Time</a>
+        2. Building Surveying - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-building-surveying-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-building-surveying-undergraduate-parttime">Part-Time</a>
+        3. Building Surveying (advanced entry) - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-building-surveying-advanced-entry-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-building-surveying-advanced-entry-undergraduate-parttime">Part-Time</a>
+        4. Quantity Surveying - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-quantity-surveying-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-quantity-surveying-undergraduate-parttime">Part-Time</a>
+        5. Quantity Surveying (advanced entry) - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-quantity-surveying-advanced-entry-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-quantity-surveying-advanced-entry-undergraduate-parttime">Part-Time</a>
+        6. Real Estate Surveying - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-real-estate-surveying-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-real-estate-surveying-undergraduate-parttime">Part-Time</a>
+        7. Real Estate Surveying (advanced entry) - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-hons-real-estate-surveying-advanced-entry-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/bsc-hons-real-estate-surveying-advanced-entry-undergraduate-parttime">Part-Time</a>
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 7 results \n
+        1. Architectural Technology and Building Performance - MSc <a href="https://www.napier.ac.uk/courses/msc-architectural-technology--building-performance-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-architectural-technology--building-performance-postgraduate-parttime">Part Time</a>
+        2. Construction Project Management - MSc <a href="https://www.napier.ac.uk/courses/msc-construction-project-management-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-construction-project-management-postgraduate-parttime">Part Time</a>
+        3. Construction Project Management - MSc <a href="https://www.napier.ac.uk/courses/msc-construction-project-management-postgraduate-online-learning">Online learning</a>
+        4. Environmental Sustainability - MSc <a href="https://www.napier.ac.uk/courses/msc-environmental-sustainability-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-environmental-sustainability-postgraduate-parttime">Part Time</a>
+        5. Facilities Management - MSc <a href="https://www.napier.ac.uk/courses/msc-facilities-management-postgraduate-distance-learning">Distance learning</a>
+        6. Real Estate Management and Investment - MSc <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-parttime">Part Time</a>
+        7. Real Estate Management and Investment - MSc <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-distance-learning">Distance learning</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

@@ -1,0 +1,2073 @@
+{
+    "client_context": {
+        "clientid": "WebChat",
+        "userid": "34d0acb5ddc140458c7ad408494ed26b",
+        "botid": "bot",
+        "brainid": "brain",
+        "depth": 0
+    },
+    "questions": [
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "How",
+                        "old",
+                        "are",
+                        "you"
+                    ],
+                    "response": "I am years old.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:55:34",
+                        "sentence": "How old are you",
+                        "response": "I am years old.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "How"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [OLD]",
+                                "words": [
+                                    "old"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ZEROORMORE [#]",
+                                "words": [
+                                    "are",
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "tell",
+                        "me",
+                        "about",
+                        "edinburgh",
+                        "napier",
+                        "university"
+                    ],
+                    "response": "You can be direct with me.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:55:38",
+                        "sentence": "tell me about edinburgh napier university",
+                        "response": "You can be direct with me.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "tell",
+                                    "me",
+                                    "about"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "university"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "years",
+                                    "old"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "tell",
+                        "me",
+                        "about",
+                        "edinburgh",
+                        "napier",
+                        "university"
+                    ],
+                    "response": "Would you like to do a search for it?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:56:00",
+                        "sentence": "tell me about edinburgh napier university",
+                        "response": "Would you like to do a search for it?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "tell",
+                                    "me",
+                                    "about"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "university"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "You",
+                                    "can",
+                                    "be",
+                                    "direct",
+                                    "with",
+                                    "me"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "EDINBURGHNAPIERUNIVERSITY"
+                    ],
+                    "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:56:58",
+                        "sentence": "EDINBURGHNAPIERUNIVERSITY",
+                        "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "EDINBURGHNAPIERUNIVERSITY"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGHNAPIERUNIVERSITY]",
+                                "words": [
+                                    "EDINBURGHNAPIERUNIVERSITY"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Would",
+                                    "you",
+                                    "like",
+                                    "to",
+                                    "do",
+                                    "a",
+                                    "search",
+                                    "for",
+                                    "it"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Who",
+                        "created",
+                        "you"
+                    ],
+                    "response": "My botmaster's name is Lyan Moe Kyaw (adapted from keithsterling's Ybot) .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:59:27",
+                        "sentence": "Who created you",
+                        "response": "My botmaster's name is Lyan Moe Kyaw (adapted from keithsterling's Ybot) .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [CREATED]",
+                                "words": [
+                                    "created"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Napier",
+                                    "Technical",
+                                    "College",
+                                    "the",
+                                    "predecessor",
+                                    "of",
+                                    "the",
+                                    "university",
+                                    "was",
+                                    "founded",
+                                    "in",
+                                    "1964",
+                                    "taking",
+                                    "its",
+                                    "name",
+                                    "from",
+                                    "16th",
+                                    "century",
+                                    "Scottish",
+                                    "mathematician",
+                                    "and",
+                                    "philosopher",
+                                    "John",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "TELL",
+                        "ME",
+                        "ABOUT",
+                        "ENDINBURGH",
+                        "NAPIER",
+                        "UNIVERSITY"
+                    ],
+                    "response": "I am currently in Yangon .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 20:59:28",
+                        "sentence": "TELL ME ABOUT ENDINBURGH NAPIER UNIVERSITY",
+                        "response": "I am currently in Yangon .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [TELL]",
+                                "words": [
+                                    "TELL"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ABOUT]",
+                                "words": [
+                                    "ABOUT"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ENDINBURGH]",
+                                "words": [
+                                    "ENDINBURGH"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "NAPIER"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [UNIVERSITY]",
+                                "words": [
+                                    "UNIVERSITY"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "My",
+                                    "botmaster",
+                                    "s",
+                                    "name",
+                                    "is",
+                                    "Lyan",
+                                    "Moe",
+                                    "Kyaw",
+                                    "adapted",
+                                    "from",
+                                    "keithsterling",
+                                    "s",
+                                    "Ybot"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "ABOUT",
+                        "ENDINBURGH",
+                        "NAPIER",
+                        "UNIVERSITY"
+                    ],
+                    "response": "Are you a man or a woman?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "tell",
+                        "me",
+                        "about",
+                        "edinburgh",
+                        "napier",
+                        "university"
+                    ],
+                    "response": "Are you a man or a woman?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "24/02/2022, 21:00:42",
+                        "sentence": "tell me about edinburgh napier university",
+                        "response": "Are you a man or a woman?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "tell",
+                                    "me",
+                                    "about"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "university"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Are",
+                                    "you",
+                                    "a",
+                                    "man",
+                                    "or",
+                                    "a",
+                                    "woman"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "tell",
+                        "me",
+                        "about",
+                        "edinburgh",
+                        "napier",
+                        "university"
+                    ],
+                    "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 09:46:10",
+                        "sentence": "tell me about edinburgh napier university",
+                        "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "tell",
+                                    "me",
+                                    "about"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "university"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Are",
+                                    "you",
+                                    "a",
+                                    "man",
+                                    "or",
+                                    "a",
+                                    "woman"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "acting",
+                        "courses"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:18:56",
+                        "sentence": "acting courses",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [ACTING]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [COURSES]",
+                                "words": [
+                                    "courses"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Napier",
+                                    "Technical",
+                                    "College",
+                                    "the",
+                                    "predecessor",
+                                    "of",
+                                    "the",
+                                    "university",
+                                    "was",
+                                    "founded",
+                                    "in",
+                                    "1964",
+                                    "taking",
+                                    "its",
+                                    "name",
+                                    "from",
+                                    "16th",
+                                    "century",
+                                    "Scottish",
+                                    "mathematician",
+                                    "and",
+                                    "philosopher",
+                                    "John",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduate"
+                    ],
+                    "response": "I found 2 results \\n 1. Acting and English Full-Time 2. Stage and Screen Acting Full-Time",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:06",
+                        "sentence": "undergraduate",
+                        "response": "I found 2 results \\n 1. Acting and English Full-Time 2. Stage and Screen Acting Full-Time",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [UNDERGRADUATE]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [acting]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "1"
+                    ],
+                    "response": "1 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:08",
+                        "sentence": "1",
+                        "response": "1 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "1"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [1]",
+                                "words": [
+                                    "1"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "1"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Stage",
+                                    "and",
+                                    "Screen",
+                                    "Acting",
+                                    "Full",
+                                    "Time"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "2"
+                    ],
+                    "response": "2 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:09",
+                        "sentence": "2",
+                        "response": "2 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "2"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [2]",
+                                "words": [
+                                    "2"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "2"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "1",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "3"
+                    ],
+                    "response": "3 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:10",
+                        "sentence": "3",
+                        "response": "3 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "3"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [3]",
+                                "words": [
+                                    "3"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "3"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "2",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "4"
+                    ],
+                    "response": "4 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:10",
+                        "sentence": "4",
+                        "response": "4 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "4"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [4]",
+                                "words": [
+                                    "4"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "4"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "3",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "5"
+                    ],
+                    "response": "5 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:11",
+                        "sentence": "5",
+                        "response": "5 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "5"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "5"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "4",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "6"
+                    ],
+                    "response": "6 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:11",
+                        "sentence": "6",
+                        "response": "6 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "6"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "6"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "5",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "7"
+                    ],
+                    "response": "7 is a number.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:12",
+                        "sentence": "7",
+                        "response": "7 is a number.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "7"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "SET name=[NUMBER]",
+                                "words": [
+                                    "7"
+                                ],
+                                "multi_word": true,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "6",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "biological",
+                        "science"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:31",
+                        "sentence": "biological science",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [BIOLOGICAL]",
+                                "words": [
+                                    "biological"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [SCIENCE]",
+                                "words": [
+                                    "science"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "7",
+                                    "is",
+                                    "a",
+                                    "number"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergrate"
+                    ],
+                    "response": "Share your fun times with me.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduate"
+                    ],
+                    "response": "I found 5 results \\n 1. Animal and Conservation Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-parttime\">Part Time</a> 2. Applied Microbiology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-parttime\">Part Time</a> 3. Biological Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-parttime\">Part Time</a> 4. Biomedical Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-parttime\">Part Time</a> 5. Marine and Freshwater Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-parttime\">Part Time</a>",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:19:41",
+                        "sentence": "undergraduate",
+                        "response": "I found 5 results \\n 1. Animal and Conservation Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-parttime\">Part Time</a> 2. Applied Microbiology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-parttime\">Part Time</a> 3. Biological Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-parttime\">Part Time</a> 4. Biomedical Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-parttime\">Part Time</a> 5. Marine and Freshwater Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-parttime\">Part Time</a>",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [UNDERGRADUATE]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [bio]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Share",
+                                    "your",
+                                    "fun",
+                                    "times",
+                                    "with",
+                                    "me"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "biological",
+                        "science"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:20:00",
+                        "sentence": "biological science",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [BIOLOGICAL]",
+                                "words": [
+                                    "biological"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [SCIENCE]",
+                                "words": [
+                                    "science"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "uk/courses/bsc",
+                                    "hons",
+                                    "marine",
+                                    "freshwater",
+                                    "biology",
+                                    "undergraduate",
+                                    "parttime",
+                                    ">Part",
+                                    "Time</a>"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "post"
+                    ],
+                    "response": "I'm not averse to flattery.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "postgraduate"
+                    ],
+                    "response": "I found 2 results \\n 1. Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-parttime\">Part Time</a> 2. Drug Design and Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-parttime\">Part Time</a> 3. Medical Biotechnology - MSc <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-parttime\">Part Time</a> 4. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-parttime\">Part Time</a> 5. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-distance-learning\">Distance Learning</a> 6. Pharmaceutical and Analytical Science - <a href=\"https://www.napier.ac.uk/courses/msc-pharmaceutical-and-analytical-science-postgraduate-fulltime\">Full-time</a>",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:20:05",
+                        "sentence": "postgraduate",
+                        "response": "I found 2 results \\n 1. Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-parttime\">Part Time</a> 2. Drug Design and Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-parttime\">Part Time</a> 3. Medical Biotechnology - MSc <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-parttime\">Part Time</a> 4. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-parttime\">Part Time</a> 5. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-distance-learning\">Distance Learning</a> 6. Pharmaceutical and Analytical Science - <a href=\"https://www.napier.ac.uk/courses/msc-pharmaceutical-and-analytical-science-postgraduate-fulltime\">Full-time</a>",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [POSTGRADUATE]",
+                                "words": [
+                                    "postgraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [bio]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "m",
+                                    "not",
+                                    "averse",
+                                    "to",
+                                    "flattery"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "acting",
+                        "courses"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:34:33",
+                        "sentence": "acting courses",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [ACTING]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [COURSES]",
+                                "words": [
+                                    "courses"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "uk/courses/msc",
+                                    "pharmaceutical",
+                                    "and",
+                                    "analytical",
+                                    "science",
+                                    "postgraduate",
+                                    "fulltime",
+                                    ">Full",
+                                    "time</a>"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduatte"
+                    ],
+                    "response": "Are you a man or a woman?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduate"
+                    ],
+                    "response": "I found 2 results \\n 1. Acting and English Full-Time 2. Stage and Screen Acting Full-Time",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:34:42",
+                        "sentence": "undergraduate",
+                        "response": "I found 2 results \\n 1. Acting and English Full-Time 2. Stage and Screen Acting Full-Time",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [UNDERGRADUATE]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [acting]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Are",
+                                    "you",
+                                    "a",
+                                    "man",
+                                    "or",
+                                    "a",
+                                    "woman"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "biological",
+                        "science"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:34:51",
+                        "sentence": "biological science",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [BIOLOGICAL]",
+                                "words": [
+                                    "biological"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [SCIENCE]",
+                                "words": [
+                                    "science"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "acting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Stage",
+                                    "and",
+                                    "Screen",
+                                    "Acting",
+                                    "Full",
+                                    "Time"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduate"
+                    ],
+                    "response": "I found 5 results \\n 1. Animal and Conservation Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-parttime\">Part Time</a> 2. Applied Microbiology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-parttime\">Part Time</a> 3. Biological Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-parttime\">Part Time</a> 4. Biomedical Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-parttime\">Part Time</a> 5. Marine and Freshwater Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-parttime\">Part Time</a>",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:34:55",
+                        "sentence": "undergraduate",
+                        "response": "I found 5 results \\n 1. Animal and Conservation Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-animal-and-conservation-biology-undergraduate-parttime\">Part Time</a> 2. Applied Microbiology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-applied-microbiology-undergraduate-parttime\">Part Time</a> 3. Biological Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biological-science-undergraduate-parttime\">Part Time</a> 4. Biomedical Science - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-biomedical-science-undergraduate-parttime\">Part Time</a> 5. Marine and Freshwater Biology - BSc (Hons) <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/bsc-hons-marine--freshwater-biology-undergraduate-parttime\">Part Time</a>",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [UNDERGRADUATE]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [bio]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "biology",
+                        "courses"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:36:03",
+                        "sentence": "biology courses",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [BIOLOGY]",
+                                "words": [
+                                    "biology"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [COURSES]",
+                                "words": [
+                                    "courses"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "uk/courses/bsc",
+                                    "hons",
+                                    "marine",
+                                    "freshwater",
+                                    "biology",
+                                    "undergraduate",
+                                    "parttime",
+                                    ">Part",
+                                    "Time</a>"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "postgraduate"
+                    ],
+                    "response": "I found 2 results \\n 1. Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-parttime\">Part Time</a> 2. Drug Design and Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-parttime\">Part Time</a> 3. Medical Biotechnology - MSc <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-parttime\">Part Time</a> 4. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-parttime\">Part Time</a> 5. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-distance-learning\">Distance Learning</a> 6. Pharmaceutical and Analytical Science - <a href=\"https://www.napier.ac.uk/courses/msc-pharmaceutical-and-analytical-science-postgraduate-fulltime\">Full-time</a>",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "25/02/2022, 11:36:08",
+                        "sentence": "postgraduate",
+                        "response": "I found 2 results \\n 1. Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-biomedical-science-postgraduate-parttime\">Part Time</a> 2. Drug Design and Biomedical Science - MSc <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-drug-design-and-biomedical-science-postgraduate-parttime\">Part Time</a> 3. Medical Biotechnology - MSc <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-medical-biotechnology-postgraduate-parttime\">Part Time</a> 4. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-fulltime\">Full-time</a> | <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-parttime\">Part Time</a> 5. Wildlife Biology and Conservation - MSc <a href=\"https://www.napier.ac.uk/courses/msc-wildlife-biology-and-conservation-postgraduate-distance-learning\">Distance Learning</a> 6. Pharmaceutical and Analytical Science - <a href=\"https://www.napier.ac.uk/courses/msc-pharmaceutical-and-analytical-science-postgraduate-fulltime\">Full-time</a>",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [POSTGRADUATE]",
+                                "words": [
+                                    "postgraduate"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "WORD [bio]",
+                                "words": [
+                                    "bio"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        }
+    ],
+    "max_histories": 100,
+    "properties": {
+        "topic": "bio",
+        "positivity": "0.0",
+        "subjectivity": "0.5"
+    }
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>ACTING</pattern>
+    <template>
+        <think><set name = "topic">acting</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>ACTING *</pattern>
+    <template><srai>ACTING</srai></template>  
+</category>
+
+<category>
+    <pattern>ACTING COURSES</pattern>
+    <template><srai>ACTING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ ACTING _</pattern>
+    <template><srai>ACTING</srai></template>  
+</category>
+
+<topic name="acting">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 2 results \n
+        1. Acting and English <a href="https://www.napier.ac.uk/courses/ba-hons-acting-and-english-undergraduate-fulltime">Full-time</a>
+        2. Stage and Screen Acting <a href="https://www.napier.ac.uk/courses/ba-hons-ba-hons-stage-and-screen-acting-ft-undergraduate-fulltime">Full-time</a>
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 2 results \n
+        1. Directing - MFA <a href="https://www.napier.ac.uk/courses/mfa-directing-postgraduate-fulltime">Full-time</a>
+        2. Acting for Stage and Screen - MFA <a href="https://www.napier.ac.uk/courses/mfa-acting-for-stage-and-screen-postgraduate-fulltime">Full-time</a>
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

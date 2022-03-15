@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>BUSINESS</pattern>
+    <template>
+        <think><set name = "topic">business</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>BUSINESS *</pattern>
+    <template><srai>BUSINESS</srai></template>  
+</category>
+
+
+
+<category>
+    <pattern>_ BUSINESS _</pattern>
+    <template><srai>BUSINESS</srai></template>  
+</category>
+
+<topic name="business">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 17 results \n
+        1. Business and Enterprise (Fife) - BA <a href="https://www.napier.ac.uk/courses/ba-business-enterprise-fife-undergraduate-distance-learning">Distance learning</a>
+        2. Business and Enterprise (on campus) - BA <a href="https://www.napier.ac.uk/courses/ba-business--enterprise-on-campus-undergraduate-distance-learning">Distance learning</a>
+        3. Business and Enterprise top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-and-enterprise-online-undergraduate-online-learning">Online Learning</a>
+        4. Business and Enterprise in Sport - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-business-and-enterprise-in-sport-undergraduate-online-learning">Online Learning</a>
+        5. Business Management - BA/BA (Hons) <a href="https://www.napier.ac.uk/courses/baba-hons-business-management-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/ba-hons-business-management-undergraduate-parttime">Part-Time</a>
+        6. Business Management top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-ba-topup-undergraduate-online-learning">Online Learning</a>
+        7. Business Management (West Lothian College) - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-west-lothian-college-undergraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/ba-business-management-west-lothian-college-undergraduate-parttime">Part-Time</a>
+        8. Business Management with Entrepreneurship - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-business-management-with-entrepreneurship-undergraduate-fulltime">Full-time</a> 
+        9. Business Management with Finance top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-with-finance-online-undergraduate-online-learning">Online Learning</a>
+        10. Business Management with Hospitality top-up - BA <a href="https://www.napier.ac.uk/courses/ba-ba-business-management-with-hospitality-undergraduate-online-learning">Online Learning</a>
+        11. Business Management with Human Resource Management - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-business-management-with-human-resource-management-undergraduate-fulltime">Full-time</a> 
+        12. Business Management with Human Resource Management top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-with-hrm-online-undergraduate-online-learning">Online Learning</a>
+        13. Business Management with Marketing - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-business-management-with-marketing-undergraduate-fulltime">Full-time</a> 
+        14. Business Management with Marketing top-up - BA <a href="https://www.napier.ac.uk/courses/ba-business-management-with-marketing-online-undergraduate-online-learning">Online Learning</a>
+        15. Human Resource Management with Organisational Psychology - BA <a href="https://www.napier.ac.uk/courses/ba-human-resource-management-with-organisational-psychology-undergraduate-parttime">Part-Time</a>
+        16. Informatics for Business - BSc (Hons) <a href="https://www.napier.ac.uk/courses/bsc-(hons)-informatics-for-business-undergraduate-fulltime">Full-time</a> 
+        17 International Business Management - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-international-business-management-undergraduate-fulltime">Full-time</a> 
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 25 results \n
+        1. The Edinburgh Napier MBA -  <a href="https://www.napier.ac.uk/courses/mba-mba-postgraduate-fulltime">Full-time</a> 
+        2. MBA (Various specialisms) -  <a href="https://www.napier.ac.uk/courses/mba-m-b-a-postgraduate-online-learning">Online Learning</a>
+        3. MBA (Leadership Practice) -  <a href="https://www.napier.ac.uk/courses/mba-mba-leadership-practice-lpu-postgraduate-fulltime">Full-time</a> 
+        4. MBA Marketing -  <a href="https://www.napier.ac.uk/courses/mba-mba-marketing-postgraduate-online-learning">Online Learning</a>
+        5. MBA Strategic Project Management -  <a href="https://www.napier.ac.uk/courses/mba-mba-strategic-project-management---postgraduate-fulltime">Full-time</a> 
+        6. Business Management - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-business-management-postgraduate-online-learning">Online Learning</a>
+        7. Business Management (Banking) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-banking-postgraduate-online-learning">Online Learning</a>
+        8. Business Management Entrepreneurship - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-entrepreneurship-postgraduate-fulltime">Full-time</a>  | 
+        <a href="https://www.napier.ac.uk/courses/msc-business-management-banking-postgraduate-online-learning">Online Learning</a>
+        9. Business Management (Events) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-events-postgraduate-online-learning">Online Learning</a>
+        10. Business Management (Finance) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-finance-postgraduate-online-learning">Online Learning</a>
+        11. Business Management (HRM) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-hrm-postgraduate-online-learning">Online Learning</a>
+        12. Business Management (Information Systems Strategy and Governance) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-information-systems-strategy-and-governance-postgraduate-online-learning">Online Learning</a>
+        13. Business Management (Logistics and Supply Chains) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-logistics-and-supply-chains-postgraduate-online-learning">Online Learning</a>
+        14. Business Management (Marketing) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-marketing-postgraduate-online-learning">Online Learning</a>
+        15. Business Management (Project Management) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-project-management-postgraduate-online-learning">Online Learning</a>
+        16. Business Management (Tourism and Hospitality) - MSc <a href="https://www.napier.ac.uk/courses/msc-business-management-tourism-and-hospitality-postgraduate-online-learning">Online Learning</a>
+        17. Global Logistics And Supply Chain Analytics - MSc <a href="https://www.napier.ac.uk/courses/msc-global-logistics-and-supply-chain-analytics-postgraduate-fulltime">Full-time</a>
+        18. Human Resource Management - MSc <a href="https://www.napier.ac.uk/courses/msc-human-resource-management-postgraduate-fulltime">Full-time</a> | 
+        <a href="https://www.napier.ac.uk/courses/msc-human-resource-management-postgraduate-parttime">Part-Time</a>
+        19. Human Resource Management (Online) - MSc <a href="https://www.napier.ac.uk/courses/msc-human-resource-management-online-postgraduate-online-learning">Online Learning</a>
+        20. Intercultural Business Communication - MSc <a href="https://www.napier.ac.uk/courses/msc-intercultural-business-communication-postgraduate-fulltime">Full-time</a> 
+        21. International Business Management - MSc <a href="https://www.napier.ac.uk/courses/msc-international-business-management-postgraduate-fulltime">Full-time</a> 
+        22. International Human Resource Management - MSc <a href="https://www.napier.ac.uk/courses/msc-international-human-resource-management-postgraduate-fulltime">Full-time</a> 
+        23. Project and Programme Management (Executive Masters) - MSc  <a href="https://www.napier.ac.uk/courses/msc-project-and-programme-management-practice-based-postgraduate-parttime">Part-Time</a>
+        24. Real Estate Management and Investment - MSc <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-fulltime">Full-time</a> ime | 
+        <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-parttime">Part-Time</a>
+        25. Real Estate Management and Investment - MSc <a href="https://www.napier.ac.uk/courses/msc-real-estate-management-and-investment-postgraduate-distance-learning">Distance learning</a>
+       
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

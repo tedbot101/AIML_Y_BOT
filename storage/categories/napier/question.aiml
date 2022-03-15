@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+<category>
+    <pattern>ABOUTNAPIER</pattern>
+    <template>Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.</template>
+</category>
+
+<category>
+  <pattern>SCHOOL</pattern>
+  <template>When you come to Edinburgh Napier University, you will study at one of our six specialist schools.
+    <br/>1. The Business School
+    <br/>2. School of Applied Sciences
+    <br/>3. School of Arts and Creative Industries
+    <br/>4. School of Computing
+    <br/>5. School of Engineering and the built Environment
+    <br/>6. School of health and Social Care
+  </template>
+</category>
+
+<category>
+  <pattern>LOCATION</pattern>
+  <template>We have three campuses across Edinburgh offering state-of-the-art facilities for learning and research
+  <br/>1. Craiglockhart Campus
+  <br/>2. Merchiston Campus
+  <br/>3. Sighthill Campus
+  </template>
+</category>
+
+<category>
+  <pattern>STUDY</pattern>
+  <template>Helping people get the careers they love is what we do. Jump into one of our study areas and find out how we can unlock your future.
+  <br/>01. Accounting and Finance
+  <br/>02. Acting
+  <br/>03. Biological Sciences
+  <br/>04. Building and Surveying
+  <br/>05. Busiess and Management
+  <br/>06. Computing
+  <br/>07. Criminology, Psychology, Sociology
+  <br/>08. Design, Photography ad Advertising
+  <br/>09. Engineering
+  <br/>10. English and Publishing
+  <br/>11. Film, Jouranlism andn Media
+  <br/>12. Health and Social Care
+  <br/>13. Law
+  <br/>14. Marketing
+  <br/>15. Music
+  <br/>16. Nursing ad Midwifery
+  <br/>17. Sport and Exercise Sciences
+  <br/>18. Teaching
+  <br/>19 Tourism, Hospitality and Events
+
+  </template>
+</category>
+
+
+</aiml>
