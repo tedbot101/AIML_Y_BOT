@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>ENGLISH</pattern>
+    <template>
+        <think><set name = "topic">english</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>ENGLISH *</pattern>
+    <template><srai>ENGLISH</srai></template>  
+</category>
+
+<category>
+    <pattern>ENGLISH</pattern>
+    <template><srai>ENGLISH</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ ENGLISH_</pattern>
+    <template><srai>ENGLISH</srai></template>  
+</category>
+
+
+
+<category>
+    <pattern>CREATIG WRITING</pattern>
+        <template><srai>CREATIG WRITING</srai></template>  
+</category>
+
+<category>
+    <pattern>CREATIG WRITING *</pattern>
+    <template><srai>CREATIG WRITING</srai></template>  
+</category>
+
+<category>
+    <pattern>CREATIG WRITING</pattern>
+    <template><srai>CREATIG WRITING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ CREATIG WRITING_</pattern>
+    <template><srai>CREATIG WRITING</srai></template>  
+</category>
+
+
+<category>
+    <pattern>PUBLISHING</pattern>
+        <template><srai>PUBLISHING</srai></template>  
+</category>
+
+<category>
+    <pattern>PUBLISHING *</pattern>
+    <template><srai>PUBLISHING</srai></template>  
+</category>
+
+<category>
+    <pattern>PUBLISHING</pattern>
+    <template><srai>PUBLISHING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ PUBLISHING_</pattern>
+    <template><srai>PUBLISHING</srai></template>  
+</category>
+
+<topic name="english">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 6 results \n
+        1. Acting and English Full-Time
+        2. English - BA (Hons) Full-Time
+        3. English and Film - BA (Hons) Full-Time
+        4. English as a Foreign Language - Certificate of credit Full-Time
+        6. English as a Foreign Language - Certificate of credit Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 3 results \n
+        1. Creative Writing - MA Full-time | Part-time
+        2. Publishing - MSc Full-time
+        3. Writing Popular Fiction - MA Full-Time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

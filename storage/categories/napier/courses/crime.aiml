@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>CRIMINOLOGY</pattern>
+    <template>
+        <think><set name = "topic">crime</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>CRIMINOLOGY *</pattern>
+    <template><srai>CRIMINOLOGY</srai></template>  
+</category>
+
+<category>
+    <pattern>CRIMINOLOGY COURSES</pattern>
+    <template><srai>CRIMINOLOGY</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ CRIMINOLOGY _</pattern>
+    <template><srai>CRIMINOLOGY</srai></template>  
+</category>
+
+<category>
+    <pattern>PSYCHOLOGY</pattern>
+    <template><srai>PSYCHOLOGY</srai></template>  
+</category>
+
+<category>
+    <pattern>PSYCHOLOGY *</pattern>
+    <template><srai>PSYCHOLOGY</srai></template>  
+</category>
+
+<category>
+    <pattern>PSYCHOLOGY COURSES</pattern>
+    <template><srai>PSYCHOLOGY</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ PSYCHOLOGY _</pattern>
+    <template><srai>PSYCHOLOGY</srai></template>  
+</category>
+
+<topic name="crime">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 5 results \n
+        1. Criminology - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-criminology-undergraduate-fulltime"></a>
+        2. Policing and Criminology - BSc (Hons) <a href="https://www.napier.ac.uk/courses/mfa-directing-postgraduate-fulltime">Full-time</a>
+        3. Psychology - BA (Hons) / BSc (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons--bsc-hons-psychology-undergraduate-fulltime">Full-time</a>
+        4. Psychology with Sociology - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-psychology-with-sociology-undergraduate-fulltime">Full-time</a>
+        5. Social Sciences - BA (Hons) <a href="https://www.napier.ac.uk/courses/ba-hons-social-sciences-undergraduate-fulltime">Full-time</a>
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 5 results \n
+        1. Applied Criminology and Forensic Psychology - MSc Full-time | Part-time
+        2. Applied Forensic Psychology - MSc Full-Time
+        3. Blended and Online Education - MSc / PgDip / PgCert Distance Learning
+        4. Career Development - PgCert Online learning
+        5. Career Guidance and Development - PgDip Full-time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

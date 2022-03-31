@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>ENGINEERING</pattern>
+    <template>
+        <think><set name = "topic">engineering</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>ENGINEERING *</pattern>
+    <template><srai>ENGINEERING</srai></template>  
+</category>
+
+<category>
+    <pattern>ENGINEERING COURSES</pattern>
+    <template><srai>ENGINEERING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ ENGINEERING _</pattern>
+    <template><srai>ENGINEERING</srai></template>  
+</category>
+
+<topic name="engineering">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 8 results \n
+        1. Digital Media and Interaction Design - BSc (Hons) Full-Time
+        2. Digital Media and Interaction Design Global - BSc (Hons) Full-Time
+        3. English and Film - BA (Hons) Full-Time
+        4. Film - BA (Hons) Full-Time
+        5. Journalism - BA (Hons) Full-Time
+        6. Marketing with Digital Media - BA (Hons) Full-Time
+        7. Mass Communications - BA (Hons) Full time
+        8. Mass Communications, Advertising and Public Relations - BA (Hons) Full time
+        9. Photography - BA (Hons) Full-Time
+        10. Television (advanced entry) - BA (Hons) Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 7 results \n
+        1. Advanced Film Practice - MFA Full-Time
+        2. Directing - MFA Full-time
+        3. Film - MA Full-time
+        4. Journalism - MA Full-time | Part-time
+        5. Publishing - MSc Full-time
+        6. Screenwriting - MA Full-time | Part-time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

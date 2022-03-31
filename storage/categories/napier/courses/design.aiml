@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>DESIGN</pattern>
+    <template>
+        <think><set name = "topic">acting</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>DESIGN *</pattern>
+    <template><srai>DESIGN</srai></template>  
+</category>
+
+<category>
+    <pattern>DESIGN COURSES</pattern>
+    <template><srai>DESIGN</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ DESIGN _</pattern>
+    <template><srai>DESIGN</srai></template>  
+</category>
+
+<category>
+    <pattern>Photography</pattern>
+    <template>
+        <think><set name = "topic">design</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>Photography *</pattern>
+    <template><srai>Photography</srai></template>  
+</category>
+
+<category>
+    <pattern>Photography COURSES</pattern>
+    <template><srai>Photography</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ Adverting _</pattern>
+    <template><srai>Adverting</srai></template>  
+</category>
+
+<category>
+    <pattern>Adverting *</pattern>
+    <template><srai>Advertingy</srai></template>  
+</category>
+
+<category>
+    <pattern>Adverting COURSES</pattern>
+    <template><srai>Advertingy</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ Adverting _</pattern>
+    <template><srai>Adverting</srai></template>  
+</category>
+
+<topic name="design">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 8 results \n
+        1. User Experience (UX) Design - BSc (Hons) Full-Time | Part-Time
+        2. Digital Media and Interaction Design - BSc (Hons) Full-Time
+        3. Digital Media and Interaction Design Global - BSc (Hons) Full-Time
+        4. Graphic Design - BDes (Hons) Full-Time
+        5. Interior and Spatial Design - BDes (Hons) Full-Time
+        6. Photography - BA (Hons) Full-Time
+        7. Product Design - BDes (Hons) Full-Time
+        8. Sound Design - BSc (Hons) Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 5 results \n
+        1. Creative Advertising - MSc Full-time
+        2. Design for Interactive Art Experiences - MA Full-time | Part-time
+        3. Design for Interactive Art Experiences - MFA Full-time | Part-time
+        4. Heritage and Exhibition Design - MA Full-time | Part-time
+        5. Heritage and Exhibition Design - MFA Full-time | Part-time
+        6. Lighting Design - MA Full-time | Part-time
+        7. Lighting Design - MFA Full-time | Part-time
+        8. Motion Graphics - MA Full-time | Part-time
+        9. Motion Graphics - MFA Full-time | Part-time
+        10. Product Design Making - MA Full-time | Part-time
+        11. Product Design and Making - MFA Full-time | Part-time
+        12. User Experience Design - MSc Full-Time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

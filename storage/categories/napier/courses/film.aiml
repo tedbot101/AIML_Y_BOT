@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>FILM</pattern>
+    <template>
+        <think><set name = "topic">FILM</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>FILM *</pattern>
+    <template><srai>FILM</srai></template>  
+</category>
+
+<category>
+    <pattern>FILM</pattern>
+    <template><srai>FILM</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ FILM_</pattern>
+    <template><srai>FILM</srai></template>  
+</category>
+
+
+<category>
+    <pattern>JOURNNALISMjournnalism</pattern>
+        <template><srai>JOURNNALISM</srai></template>  
+</category>
+
+<category>
+    <pattern>JOURNNALISMjournnalism *</pattern>
+    <template><srai>JOURNNALISMjournnalism</srai></template>  
+</category>
+
+<category>
+    <pattern>JOURNNALISMjournnalism</pattern>
+    <template><srai>JOURNNALISMjournnalism</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ JOURNNALISMjournnalism_</pattern>
+    <template><srai>JOURNNALISMjournnalism</srai></template>  
+</category>
+
+<category>
+    <pattern>MEDIA</pattern>
+        <template><srai>MEDIA</srai></template>  
+</category>
+
+<category>
+    <pattern>MEDIA *</pattern>
+    <template><srai>MEDIA</srai></template>  
+</category>
+
+<category>
+    <pattern>MEDIA</pattern>
+    <template><srai>MEDIA</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ MEDIA_</pattern>
+    <template><srai>MEDIA</srai></template>  
+</category>
+
+
+<topic name="film">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 2 results \n
+        1. Digital Media and Interaction Design - BSc (Hons) Full-Time
+        2. Digital Media and Interaction Design Global - BSc (Hons) Full-Time
+        3. English and Film - BA (Hons) Full-Time
+        4. Film - BA (Hons) Full-Time
+        5. Journalism - BA (Hons) Full-Time
+        6. Marketing with Digital Media - BA (Hons) Full-Time
+        7. Mass Communications - BA (Hons) Full time
+        8. Mass Communications, Advertising and Public Relations - BA (Hons) Full time
+        9. Photography - BA (Hons) Full-Time
+        10.Television (advanced entry) - BA (Hons) Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+        I found 2 results \n
+        1. Digital Media and Interaction Design - BSc (Hons) Full-Time
+        2. Digital Media and Interaction Design Global - BSc (Hons) Full-Time
+        3. English and Film - BA (Hons) Full-Time
+        4. Film - BA (Hons) Full-Time
+        5. Journalism - BA (Hons) Full-Time
+        6. Marketing with Digital Media - BA (Hons) Full-Time
+        7. Mass Communications - BA (Hons) Full time
+        8. Mass Communications, Advertising and Public Relations - BA (Hons) Full time
+        9.Photography - BA (Hons) Full-Time
+        10.Television (advanced entry) - BA (Hons) Full-Time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>
