@@ -1,0 +1,900 @@
+2022-05-27 14:13:48,731  root       INFO    [Console] - Now logging under configuration
+2022-05-27 14:13:48,749  root       WARNING Missing value for [default_userid] in config, return default value Console
+2022-05-27 14:13:48,749  root       WARNING Missing value for [description] in config, return default value ProgramY AIML2.0 Client
+2022-05-27 14:13:48,750  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,750  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,750  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,750  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,750  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,750  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,750  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,750  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,751  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,751  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:13:48,751  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,752  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:13:48,752  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,752  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,752  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,752  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,752  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,752  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,753  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,753  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,753  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,753  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,753  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,753  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,753  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,753  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,754  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,754  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,754  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,754  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,754  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,754  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,754  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:13:48,754  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:13:48,754  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,755  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,755  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,755  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,755  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,755  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,755  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,755  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,756  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,756  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,756  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,756  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,756  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,756  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,756  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,756  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,756  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,757  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,757  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,757  root       WARNING Missing value for [postquestionprocessors_storage] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:13:48,757  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:13:48,757  root       WARNING Missing value for [triggers_storage] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [oobs_storage] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [services_storage] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING Missing value for [renderer] in config, return default value None
+2022-05-27 14:13:48,757  root       WARNING 'email' section missing from bot config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'triggers' section missing from client config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'responder' section missing from client config, using defaults
+2022-05-27 14:13:48,758  root       WARNING Missing value for [tab_parse_output] in config, return default value True
+2022-05-27 14:13:48,758  root       WARNING Missing value for [alphabet] in config, return default value None
+2022-05-27 14:13:48,758  root       WARNING Missing value for [max_histories] in config, return default value 100
+2022-05-27 14:13:48,758  root       WARNING Missing value for [initial_topic] in config, return default value *
+2022-05-27 14:13:48,758  root       WARNING Missing value for [restore_last_topic] in config, return default value False
+2022-05-27 14:13:48,758  root       WARNING Missing value for [empty_on_start] in config, return default value False
+2022-05-27 14:13:48,758  root       WARNING Missing value for [multi_client] in config, return default value False
+2022-05-27 14:13:48,758  root       WARNING 'splitter' section missing from bot config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'joiner' section missing from bot config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'translation' section missing from bot config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'translation' section missing from bot config, using defaults
+2022-05-27 14:13:48,758  root       WARNING 'sentiment' section missing from bot config, using defaults
+2022-05-27 14:13:48,759  root       WARNING Missing value for [save_as_user] in config, return default value system
+2022-05-27 14:13:48,759  root       WARNING Missing value for [denied_text] in config, return default value Access denied!
+2022-05-27 14:13:48,759  root       WARNING Missing value for [denied_text] in config, return default value Access denied!
+2022-05-27 14:13:48,759  root       WARNING 'security' section missing from bot config, using to defaults
+2022-05-27 14:13:48,759  root       WARNING 'tokenizer' section missing from bot config, using defaults
+2022-05-27 14:13:48,759  root       WARNING Missing value for [save_errors] in config, return default value False
+2022-05-27 14:13:48,759  root       WARNING Missing value for [save_duplicates] in config, return default value False
+2022-05-27 14:13:48,759  root       WARNING Missing value for [brain_selector] in config, return default value None
+2022-05-27 14:13:48,759  root       WARNING Missing value for [bot_selector] in config, return default value programy.clients.botfactory.DefaultBotSelector
+2022-05-27 14:13:48,759  root       DEBUG   Loading Storage Factory
+2022-05-27 14:13:48,759  root       INFO    Loading license key file: [..\..\storage\licenses\license.keys]
+2022-05-27 14:13:48,759  root       ERROR   Invalid license key file [..\..\storage\licenses\license.keys] [[Errno 2] No such file or directory: '..\\..\\storage\\licenses\\license.keys']
+2022-05-27 14:13:48,760  root       DEBUG   Loading nodes from file [..\..\storage\nodes\pattern_nodes.conf]
+2022-05-27 14:13:48,760  root       ERROR   File not found [..\..\storage\nodes\pattern_nodes.conf]
+2022-05-27 14:13:48,760  root       DEBUG   Loading nodes from file [..\..\storage\nodes\template_nodes.conf]
+2022-05-27 14:13:48,760  root       ERROR   File not found [..\..\storage\nodes\template_nodes.conf]
+2022-05-27 14:13:48,760  root       DEBUG   Defaulting root to PatternRootNode
+2022-05-27 14:13:48,760  root       ERROR   Failed to get root pattern node, reverting to default [Invalid node name [root]]
+2022-05-27 14:13:48,760  root       DEBUG   Processor path [programy.parser.pattern.nodes.root.PatternRootNode]
+2022-05-27 14:13:48,760  root       DEBUG   Importing module [programy.parser.pattern.nodes.root]
+2022-05-27 14:13:48,761  root       DEBUG   Instantiating class [PatternRootNode]
+2022-05-27 14:13:48,761  root       INFO    [Console] [bot] [brain] - Loading aiml source brain
+2022-05-27 14:13:48,761  root       INFO    [Console] [bot] [brain] - Loading collections
+2022-05-27 14:13:48,761  root       DEBUG   Loading lookup [..\..\storage\lookups\denormal.txt]
+2022-05-27 14:13:48,761  root       ERROR   Failed to load lookup [..\..\storage\lookups\denormal.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\denormal.txt']
+2022-05-27 14:13:48,762  root       DEBUG   Loading lookup [..\..\storage\lookups\normal.txt]
+2022-05-27 14:13:48,762  root       ERROR   Failed to load lookup [..\..\storage\lookups\normal.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\normal.txt']
+2022-05-27 14:13:48,762  root       DEBUG   Loading lookup [..\..\storage\lookups\gender.txt]
+2022-05-27 14:13:48,762  root       ERROR   Failed to load lookup [..\..\storage\lookups\gender.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\gender.txt']
+2022-05-27 14:13:48,762  root       DEBUG   Loading lookup [..\..\storage\lookups\person.txt]
+2022-05-27 14:13:48,762  root       ERROR   Failed to load lookup [..\..\storage\lookups\person.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\person.txt']
+2022-05-27 14:13:48,762  root       DEBUG   Loading lookup [..\..\storage\lookups\person2.txt]
+2022-05-27 14:13:48,762  root       ERROR   Failed to load lookup [..\..\storage\lookups\person2.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\person2.txt']
+2022-05-27 14:13:48,762  root       DEBUG   Loading properties from [..\..\storage\properties\properties.txt]
+2022-05-27 14:13:48,762  root       ERROR   Failed to load properties file [..\..\storage\properties\properties.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\properties\\properties.txt']
+2022-05-27 14:13:48,763  root       DEBUG   Emptying RDF Collection
+2022-05-27 14:13:48,763  root       DEBUG   Loading RDF Collection
+2022-05-27 14:13:48,763  root       ERROR   Failed to load set from storage [[WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets']
+2022-05-27 14:13:48,763  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:13:48,763  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:13:48,764  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:13:48,764  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:13:48,764  root       ERROR   FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:13:48,764  root       ERROR   Failed to load map from storage [[WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps']
+2022-05-27 14:13:48,765  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:13:48,765  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:13:48,765  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:13:48,765  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:13:48,766  root       ERROR   FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:13:48,766  root       DEBUG   Loading processors from file [..\..\storage\processing\preprocessors.conf]
+2022-05-27 14:13:48,766  root       ERROR   Failed to load processors from storage [[Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf']
+2022-05-27 14:13:48,766  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:13:48,767  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:13:48,767  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:13:48,767  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:13:48,767  root       ERROR   FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:13:48,768  root       DEBUG   Loading processors from file [..\..\storage\processing\postprocessors.conf]
+2022-05-27 14:13:48,768  root       ERROR   Failed to load processors from storage [[Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf']
+2022-05-27 14:13:48,768  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:13:48,768  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:13:48,768  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:13:48,769  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:13:48,769  root       ERROR   FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:13:48,769  root       INFO    [Console] [bot] [brain] - Loading services
+2022-05-27 14:13:48,769  root       DEBUG   Loading services
+2022-05-27 14:13:48,769  root       ERROR   No storage engine available for services!
+2022-05-27 14:13:48,769  root       INFO    [Console] [bot] [brain] - Loading security services
+2022-05-27 14:13:48,769  root       DEBUG   Processor path [programy.security.authenticate.passthrough.BasicPassThroughAuthenticationService]
+2022-05-27 14:13:48,770  root       DEBUG   Importing module [programy.security.authenticate.passthrough]
+2022-05-27 14:13:48,772  root       DEBUG   Instantiating class [BasicPassThroughAuthenticationService]
+2022-05-27 14:13:48,772  root       DEBUG   Processor path [programy.security.authorise.usergroupsauthorisor.BasicUserGroupAuthorisationService]
+2022-05-27 14:13:48,772  root       DEBUG   Importing module [programy.security.authorise.usergroupsauthorisor]
+2022-05-27 14:13:48,773  root       DEBUG   Instantiating class [BasicUserGroupAuthorisationService]
+2022-05-27 14:13:48,773  root       ERROR   Failed to load usergroups yaml file [..\..\storage\security\usergroups.yaml] [[Errno 2] No such file or directory: '..\\..\\storage\\security\\usergroups.yaml']
+2022-05-27 14:13:48,774  root       DEBUG   Processor path [programy.security.linking.accountlinker.BasicAccountLinkerService]
+2022-05-27 14:13:48,774  root       DEBUG   Importing module [programy.security.linking.accountlinker]
+2022-05-27 14:13:48,775  root       DEBUG   Instantiating class [BasicAccountLinkerService]
+2022-05-27 14:13:48,775  root       INFO    [Console] [bot] [brain] - Loading oob processors
+2022-05-27 14:13:48,775  root       ERROR   No storage engine available for oobs!
+2022-05-27 14:13:48,775  root       INFO    [Console] [bot] [brain] - Loading regex templates
+2022-05-27 14:13:48,775  root       DEBUG   Loading properties from [..\..\storage\regex\regex-templates.txt]
+2022-05-27 14:13:48,776  root       ERROR   Failed to load properties file [..\..\storage\regex\regex-templates.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\regex\\regex-templates.txt']
+2022-05-27 14:13:48,776  root       INFO    [Console] [bot] [brain] - Loading dynamics sets, maps and vars
+2022-05-27 14:13:48,776  root       DEBUG   Processor path [programy.dynamic.sets.numeric.IsNumeric]
+2022-05-27 14:13:48,776  root       DEBUG   Importing module [programy.dynamic.sets.numeric]
+2022-05-27 14:13:48,776  root       DEBUG   Instantiating class [IsNumeric]
+2022-05-27 14:13:48,776  root       DEBUG   Processor path [programy.dynamic.sets.roman.IsRomanNumeral]
+2022-05-27 14:13:48,776  root       DEBUG   Importing module [programy.dynamic.sets.roman]
+2022-05-27 14:13:48,777  root       DEBUG   Instantiating class [IsRomanNumeral]
+2022-05-27 14:13:48,777  root       DEBUG   Processor path [programy.dynamic.maps.roman.MapRomanToDecimal]
+2022-05-27 14:13:48,777  root       DEBUG   Importing module [programy.dynamic.maps.roman]
+2022-05-27 14:13:48,778  root       DEBUG   Instantiating class [MapRomanToDecimal]
+2022-05-27 14:13:48,778  root       DEBUG   Processor path [programy.dynamic.maps.roman.MapDecimalToRoman]
+2022-05-27 14:13:48,778  root       DEBUG   Importing module [programy.dynamic.maps.roman]
+2022-05-27 14:13:48,778  root       DEBUG   Instantiating class [MapDecimalToRoman]
+2022-05-27 14:13:48,778  root       DEBUG   Processor path [programy.dynamic.variables.datetime.GetTime]
+2022-05-27 14:13:48,778  root       DEBUG   Importing module [programy.dynamic.variables.datetime]
+2022-05-27 14:13:48,781  root       DEBUG   Instantiating class [GetTime]
+2022-05-27 14:13:48,781  root       WARNING Dynamic set NUMBER not defined, adding default implementation
+2022-05-27 14:13:48,781  root       WARNING Dynamic set PLURAL not defined, adding default implementation
+2022-05-27 14:13:48,781  root       WARNING Dynamic set SINGULAR not defined, adding default implementation
+2022-05-27 14:13:48,781  root       WARNING Dynamic set SUCCESSOR not defined, adding default implementation
+2022-05-27 14:13:48,781  root       WARNING Dynamic set PREDECESSOR not defined, adding default implementation
+2022-05-27 14:13:48,781  root       INFO    Loading spelling checker from class [programy.spelling.norvig.NorvigSpellingChecker]
+2022-05-27 14:13:48,781  root       DEBUG   Processor path [programy.spelling.norvig.NorvigSpellingChecker]
+2022-05-27 14:13:48,781  root       DEBUG   Importing module [programy.spelling.norvig]
+2022-05-27 14:13:48,782  root       DEBUG   Instantiating class [NorvigSpellingChecker]
+2022-05-27 14:13:48,782  root       INFO    Loading spelling corpus [..\..\storage\spelling\corpus.txt]
+2022-05-27 14:13:48,782  root       ERROR   Failed to load corpus [..\..\storage\spelling\corpus.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\spelling\\corpus.txt']
+2022-05-27 14:13:48,782  root       INFO    Loading sentence splitter from class [programy.dialog.splitter.regex.RegexSentenceSplitter]
+2022-05-27 14:13:48,782  root       DEBUG   Processor path [programy.dialog.splitter.regex.RegexSentenceSplitter]
+2022-05-27 14:13:48,782  root       DEBUG   Importing module [programy.dialog.splitter.regex]
+2022-05-27 14:13:48,783  root       DEBUG   Instantiating class [RegexSentenceSplitter]
+2022-05-27 14:13:48,783  root       INFO    Loading sentence joiner from class [programy.dialog.joiner.joiner.SentenceJoiner]
+2022-05-27 14:13:48,783  root       DEBUG   Processor path [programy.dialog.joiner.joiner.SentenceJoiner]
+2022-05-27 14:13:48,783  root       DEBUG   Importing module [programy.dialog.joiner.joiner]
+2022-05-27 14:13:48,784  root       DEBUG   Instantiating class [SentenceJoiner]
+2022-05-27 14:13:48,784  root       WARNING No configuration setting for translator!
+2022-05-27 14:13:48,784  root       WARNING No configuration setting for translator!
+2022-05-27 14:13:48,784  root       WARNING No configuration setting for sentiment analyser!
+2022-05-27 14:13:48,784  root       DEBUG   Processor path [programy.clients.botfactory.DefaultBotSelector]
+2022-05-27 14:13:48,784  root       DEBUG   Importing module [programy.clients.botfactory]
+2022-05-27 14:13:48,784  root       DEBUG   Instantiating class [DefaultBotSelector]
+2022-05-27 14:13:48,784  root       DEBUG   Loading Scheduler
+2022-05-27 14:13:48,784  root       DEBUG   Creating Background Scheduler WITHOUT config
+2022-05-27 14:13:48,787  root       DEBUG   Scheduler initiated...
+2022-05-27 14:13:48,787  root       DEBUG   Scheduler starting...
+2022-05-27 14:13:48,790  root       DEBUG   Loading Email Manager
+2022-05-27 14:13:48,790  root       DEBUG   Loading Trigger Manager
+2022-05-27 14:13:48,790  root       DEBUG   Processor path [programy.triggers.local.LocalTriggerManager]
+2022-05-27 14:13:48,790  root       DEBUG   Importing module [programy.triggers.local]
+2022-05-27 14:13:48,791  root       DEBUG   Instantiating class [LocalTriggerManager]
+2022-05-27 14:13:48,794  root       DEBUG   [Console] [bot] [brain] [testuser] - ##########################################################################################
+2022-05-27 14:13:48,794  root       DEBUG   [Console] [bot] [brain] [testuser] - Question (Console): chatbotint
+2022-05-27 14:13:48,794  root       DEBUG   [Console] [bot] [brain] [testuser] - Pre Processed (testuser): chatbotint
+2022-05-27 14:13:48,794  root       INFO    [Console] [bot] [brain] [testuser] - Creating new conversation for client testuser
+2022-05-27 14:13:48,795  root       DEBUG   [Console] [bot] [brain] [testuser] - Retrieving conversation for client testuser
+2022-05-27 14:13:48,795  root       INFO    [Console] [bot] [brain] [testuser] - Topic pattern = [*]
+2022-05-27 14:13:48,796  root       INFO    [Console] [bot] [brain] [testuser] - That pattern = [Sorry I don t have an answer for that]
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - AIML Parser matching sentence [chatbotint], topic=[*], that=[Sorry I don t have an answer for that] 
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - Matching [chatbotint __TOPIC__ * __THAT__ Sorry I don t have an answer for that]
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - No match for chatbotint, trying another path
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - Retrieving conversation for client testuser
+2022-05-27 14:13:48,796  root       INFO    [Console] [bot] [brain] [testuser] - Topic pattern = [*]
+2022-05-27 14:13:48,796  root       INFO    [Console] [bot] [brain] [testuser] - That pattern = [Sorry I don t have an answer for that]
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - AIML Parser matching sentence [YEMPTY], topic=[*], that=[Sorry I don t have an answer for that] 
+2022-05-27 14:13:48,796  root       DEBUG   [Console] [bot] [brain] [testuser] - Matching [YEMPTY __TOPIC__ * __THAT__ Sorry I don t have an answer for that]
+2022-05-27 14:13:48,797  root       DEBUG   [Console] [bot] [brain] [testuser] - No match for YEMPTY, trying another path
+2022-05-27 14:13:48,797  root       DEBUG   Writing conversation to [..\..\storage\conversations\Console_testuser.conv]
+2022-05-27 14:13:48,798  root       DEBUG   [Console] [bot] [brain] [testuser] - Event triggered [QUESTION_ASKED]
+2022-05-27 14:20:51,937  root       INFO    [Console] - Now logging under configuration
+2022-05-27 14:20:51,954  root       WARNING Missing value for [default_userid] in config, return default value Console
+2022-05-27 14:20:51,955  root       WARNING Missing value for [description] in config, return default value ProgramY AIML2.0 Client
+2022-05-27 14:20:51,956  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,956  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,956  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,956  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,956  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,957  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,957  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,957  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,957  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,957  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,958  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,958  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:20:51,958  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:20:51,958  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,958  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,959  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,959  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:20:51,959  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:20:51,959  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,960  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:20:51,960  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,960  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:20:51,960  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,960  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,960  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,961  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,961  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,961  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,961  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,961  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,961  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,961  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,961  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,961  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,962  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,962  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,962  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,962  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,962  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,962  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,962  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,962  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,962  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,963  root       WARNING Missing value for [extension] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [subdirs] in config, return default value False
+2022-05-27 14:20:51,963  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,963  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,963  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,963  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,963  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,963  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,963  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,964  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,964  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,964  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,964  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,964  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,964  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,964  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,964  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,965  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,965  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,965  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,965  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,965  root       WARNING Missing value for [postquestionprocessors_storage] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [dirs] in config, return default value
+2022-05-27 14:20:51,965  root       WARNING Missing value for [format] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [encoding] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [delete_on_start] in config, return default value False
+2022-05-27 14:20:51,965  root       WARNING Missing value for [triggers_storage] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [oobs_storage] in config, return default value None
+2022-05-27 14:20:51,965  root       WARNING Missing value for [services_storage] in config, return default value None
+2022-05-27 14:20:51,966  root       WARNING Missing value for [renderer] in config, return default value None
+2022-05-27 14:20:51,966  root       WARNING 'email' section missing from bot config, using defaults
+2022-05-27 14:20:51,966  root       WARNING 'triggers' section missing from client config, using defaults
+2022-05-27 14:20:51,966  root       WARNING 'responder' section missing from client config, using defaults
+2022-05-27 14:20:51,966  root       WARNING Missing value for [tab_parse_output] in config, return default value True
+2022-05-27 14:20:51,966  root       WARNING Missing value for [alphabet] in config, return default value None
+2022-05-27 14:20:51,966  root       WARNING Missing value for [max_histories] in config, return default value 100
+2022-05-27 14:20:51,966  root       WARNING Missing value for [initial_topic] in config, return default value *
+2022-05-27 14:20:51,966  root       WARNING Missing value for [restore_last_topic] in config, return default value False
+2022-05-27 14:20:51,966  root       WARNING Missing value for [empty_on_start] in config, return default value False
+2022-05-27 14:20:51,966  root       WARNING Missing value for [multi_client] in config, return default value False
+2022-05-27 14:20:51,966  root       WARNING 'splitter' section missing from bot config, using defaults
+2022-05-27 14:20:51,966  root       WARNING 'joiner' section missing from bot config, using defaults
+2022-05-27 14:20:51,966  root       WARNING 'translation' section missing from bot config, using defaults
+2022-05-27 14:20:51,967  root       WARNING 'translation' section missing from bot config, using defaults
+2022-05-27 14:20:51,967  root       WARNING 'sentiment' section missing from bot config, using defaults
+2022-05-27 14:20:51,967  root       WARNING Missing value for [save_as_user] in config, return default value system
+2022-05-27 14:20:51,967  root       WARNING Missing value for [denied_text] in config, return default value Access denied!
+2022-05-27 14:20:51,967  root       WARNING Missing value for [denied_text] in config, return default value Access denied!
+2022-05-27 14:20:51,967  root       WARNING 'security' section missing from bot config, using to defaults
+2022-05-27 14:20:51,967  root       WARNING 'tokenizer' section missing from bot config, using defaults
+2022-05-27 14:20:51,967  root       WARNING Missing value for [save_errors] in config, return default value False
+2022-05-27 14:20:51,967  root       WARNING Missing value for [save_duplicates] in config, return default value False
+2022-05-27 14:20:51,967  root       WARNING Missing value for [brain_selector] in config, return default value None
+2022-05-27 14:20:51,967  root       WARNING Missing value for [bot_selector] in config, return default value programy.clients.botfactory.DefaultBotSelector
+2022-05-27 14:20:51,967  root       DEBUG   Loading Storage Factory
+2022-05-27 14:20:51,967  root       INFO    Loading license key file: [..\..\storage\licenses\license.keys]
+2022-05-27 14:20:51,968  root       ERROR   Invalid license key file [..\..\storage\licenses\license.keys] [[Errno 2] No such file or directory: '..\\..\\storage\\licenses\\license.keys']
+2022-05-27 14:20:51,968  root       DEBUG   Loading nodes from file [..\..\storage\nodes\pattern_nodes.conf]
+2022-05-27 14:20:51,968  root       ERROR   File not found [..\..\storage\nodes\pattern_nodes.conf]
+2022-05-27 14:20:51,968  root       DEBUG   Loading nodes from file [..\..\storage\nodes\template_nodes.conf]
+2022-05-27 14:20:51,968  root       ERROR   File not found [..\..\storage\nodes\template_nodes.conf]
+2022-05-27 14:20:51,968  root       DEBUG   Defaulting root to PatternRootNode
+2022-05-27 14:20:51,968  root       ERROR   Failed to get root pattern node, reverting to default [Invalid node name [root]]
+2022-05-27 14:20:51,968  root       DEBUG   Processor path [programy.parser.pattern.nodes.root.PatternRootNode]
+2022-05-27 14:20:51,968  root       DEBUG   Importing module [programy.parser.pattern.nodes.root]
+2022-05-27 14:20:51,969  root       DEBUG   Instantiating class [PatternRootNode]
+2022-05-27 14:20:51,969  root       INFO    [Console] [bot] [brain] - Loading aiml source brain
+2022-05-27 14:20:51,969  root       INFO    [Console] [bot] [brain] - Loading collections
+2022-05-27 14:20:51,969  root       DEBUG   Loading lookup [..\..\storage\lookups\denormal.txt]
+2022-05-27 14:20:51,970  root       ERROR   Failed to load lookup [..\..\storage\lookups\denormal.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\denormal.txt']
+2022-05-27 14:20:51,970  root       DEBUG   Loading lookup [..\..\storage\lookups\normal.txt]
+2022-05-27 14:20:51,970  root       ERROR   Failed to load lookup [..\..\storage\lookups\normal.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\normal.txt']
+2022-05-27 14:20:51,970  root       DEBUG   Loading lookup [..\..\storage\lookups\gender.txt]
+2022-05-27 14:20:51,970  root       ERROR   Failed to load lookup [..\..\storage\lookups\gender.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\gender.txt']
+2022-05-27 14:20:51,970  root       DEBUG   Loading lookup [..\..\storage\lookups\person.txt]
+2022-05-27 14:20:51,970  root       ERROR   Failed to load lookup [..\..\storage\lookups\person.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\person.txt']
+2022-05-27 14:20:51,970  root       DEBUG   Loading lookup [..\..\storage\lookups\person2.txt]
+2022-05-27 14:20:51,970  root       ERROR   Failed to load lookup [..\..\storage\lookups\person2.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\lookups\\person2.txt']
+2022-05-27 14:20:51,970  root       DEBUG   Loading properties from [..\..\storage\properties\properties.txt]
+2022-05-27 14:20:51,971  root       ERROR   Failed to load properties file [..\..\storage\properties\properties.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\properties\\properties.txt']
+2022-05-27 14:20:51,971  root       DEBUG   Emptying RDF Collection
+2022-05-27 14:20:51,971  root       DEBUG   Loading RDF Collection
+2022-05-27 14:20:51,971  root       ERROR   Failed to load set from storage [[WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets']
+2022-05-27 14:20:51,971  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:20:51,972  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:20:51,972  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:20:51,972  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:20:51,972  root       ERROR   FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 88, in load
+    self._load_collection(storage_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\sets.py", line 82, in _load_collection
+    sets_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\sets'
+2022-05-27 14:20:51,972  root       ERROR   Failed to load map from storage [[WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps']
+2022-05-27 14:20:51,973  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:20:51,973  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:20:51,973  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:20:51,973  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:20:51,974  root       ERROR   FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 70, in load
+    self._load_collection(maps_store_engine)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\mappings\maps.py", line 64, in _load_collection
+    maps_store.load_all(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 130, in load_all
+    paths = os.listdir(col_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\..\\storage\\maps'
+2022-05-27 14:20:51,974  root       DEBUG   Loading processors from file [..\..\storage\processing\preprocessors.conf]
+2022-05-27 14:20:51,974  root       ERROR   Failed to load processors from storage [[Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf']
+2022-05-27 14:20:51,974  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:20:51,975  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:20:51,975  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:20:51,975  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:20:51,976  root       ERROR   FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\preprocessors.conf'
+2022-05-27 14:20:51,976  root       DEBUG   Loading processors from file [..\..\storage\processing\postprocessors.conf]
+2022-05-27 14:20:51,976  root       ERROR   Failed to load processors from storage [[Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf']
+2022-05-27 14:20:51,976  root       ERROR   Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:20:51,976  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:20:51,977  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:20:51,977  root       ERROR     File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:20:51,977  root       ERROR   FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+Traceback (most recent call last):
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\processors\processing.py", line 49, in load
+    processor_store.load(self)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\filestore.py", line 148, in load
+    self._load_file_contents(collector, col_storage.file)
+  File "C:\Users\tedbot\AppData\Local\Programs\Python\Python37\lib\site-packages\programy\storage\stores\file\store\processors.py", line 52, in _load_file_contents
+    with open(filename, "r", encoding="utf-8") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\..\\storage\\processing\\postprocessors.conf'
+2022-05-27 14:20:51,977  root       INFO    [Console] [bot] [brain] - Loading services
+2022-05-27 14:20:51,978  root       DEBUG   Loading services
+2022-05-27 14:20:51,978  root       ERROR   No storage engine available for services!
+2022-05-27 14:20:51,978  root       INFO    [Console] [bot] [brain] - Loading security services
+2022-05-27 14:20:51,978  root       DEBUG   Processor path [programy.security.authenticate.passthrough.BasicPassThroughAuthenticationService]
+2022-05-27 14:20:51,978  root       DEBUG   Importing module [programy.security.authenticate.passthrough]
+2022-05-27 14:20:51,980  root       DEBUG   Instantiating class [BasicPassThroughAuthenticationService]
+2022-05-27 14:20:51,980  root       DEBUG   Processor path [programy.security.authorise.usergroupsauthorisor.BasicUserGroupAuthorisationService]
+2022-05-27 14:20:51,980  root       DEBUG   Importing module [programy.security.authorise.usergroupsauthorisor]
+2022-05-27 14:20:51,981  root       DEBUG   Instantiating class [BasicUserGroupAuthorisationService]
+2022-05-27 14:20:51,981  root       ERROR   Failed to load usergroups yaml file [..\..\storage\security\usergroups.yaml] [[Errno 2] No such file or directory: '..\\..\\storage\\security\\usergroups.yaml']
+2022-05-27 14:20:51,981  root       DEBUG   Processor path [programy.security.linking.accountlinker.BasicAccountLinkerService]
+2022-05-27 14:20:51,981  root       DEBUG   Importing module [programy.security.linking.accountlinker]
+2022-05-27 14:20:51,983  root       DEBUG   Instantiating class [BasicAccountLinkerService]
+2022-05-27 14:20:51,983  root       INFO    [Console] [bot] [brain] - Loading oob processors
+2022-05-27 14:20:51,983  root       ERROR   No storage engine available for oobs!
+2022-05-27 14:20:51,983  root       INFO    [Console] [bot] [brain] - Loading regex templates
+2022-05-27 14:20:51,983  root       DEBUG   Loading properties from [..\..\storage\regex\regex-templates.txt]
+2022-05-27 14:20:51,983  root       ERROR   Failed to load properties file [..\..\storage\regex\regex-templates.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\regex\\regex-templates.txt']
+2022-05-27 14:20:51,983  root       INFO    [Console] [bot] [brain] - Loading dynamics sets, maps and vars
+2022-05-27 14:20:51,983  root       DEBUG   Processor path [programy.dynamic.sets.numeric.IsNumeric]
+2022-05-27 14:20:51,983  root       DEBUG   Importing module [programy.dynamic.sets.numeric]
+2022-05-27 14:20:51,983  root       DEBUG   Instantiating class [IsNumeric]
+2022-05-27 14:20:51,983  root       DEBUG   Processor path [programy.dynamic.sets.roman.IsRomanNumeral]
+2022-05-27 14:20:51,984  root       DEBUG   Importing module [programy.dynamic.sets.roman]
+2022-05-27 14:20:51,984  root       DEBUG   Instantiating class [IsRomanNumeral]
+2022-05-27 14:20:51,984  root       DEBUG   Processor path [programy.dynamic.maps.roman.MapRomanToDecimal]
+2022-05-27 14:20:51,984  root       DEBUG   Importing module [programy.dynamic.maps.roman]
+2022-05-27 14:20:51,985  root       DEBUG   Instantiating class [MapRomanToDecimal]
+2022-05-27 14:20:51,985  root       DEBUG   Processor path [programy.dynamic.maps.roman.MapDecimalToRoman]
+2022-05-27 14:20:51,985  root       DEBUG   Importing module [programy.dynamic.maps.roman]
+2022-05-27 14:20:51,985  root       DEBUG   Instantiating class [MapDecimalToRoman]
+2022-05-27 14:20:51,985  root       DEBUG   Processor path [programy.dynamic.variables.datetime.GetTime]
+2022-05-27 14:20:51,985  root       DEBUG   Importing module [programy.dynamic.variables.datetime]
+2022-05-27 14:20:51,988  root       DEBUG   Instantiating class [GetTime]
+2022-05-27 14:20:51,988  root       WARNING Dynamic set NUMBER not defined, adding default implementation
+2022-05-27 14:20:51,988  root       WARNING Dynamic set PLURAL not defined, adding default implementation
+2022-05-27 14:20:51,988  root       WARNING Dynamic set SINGULAR not defined, adding default implementation
+2022-05-27 14:20:51,988  root       WARNING Dynamic set SUCCESSOR not defined, adding default implementation
+2022-05-27 14:20:51,988  root       WARNING Dynamic set PREDECESSOR not defined, adding default implementation
+2022-05-27 14:20:51,988  root       INFO    Loading spelling checker from class [programy.spelling.norvig.NorvigSpellingChecker]
+2022-05-27 14:20:51,988  root       DEBUG   Processor path [programy.spelling.norvig.NorvigSpellingChecker]
+2022-05-27 14:20:51,989  root       DEBUG   Importing module [programy.spelling.norvig]
+2022-05-27 14:20:51,989  root       DEBUG   Instantiating class [NorvigSpellingChecker]
+2022-05-27 14:20:51,989  root       INFO    Loading spelling corpus [..\..\storage\spelling\corpus.txt]
+2022-05-27 14:20:51,989  root       ERROR   Failed to load corpus [..\..\storage\spelling\corpus.txt] [[Errno 2] No such file or directory: '..\\..\\storage\\spelling\\corpus.txt']
+2022-05-27 14:20:51,990  root       INFO    Loading sentence splitter from class [programy.dialog.splitter.regex.RegexSentenceSplitter]
+2022-05-27 14:20:51,990  root       DEBUG   Processor path [programy.dialog.splitter.regex.RegexSentenceSplitter]
+2022-05-27 14:20:51,990  root       DEBUG   Importing module [programy.dialog.splitter.regex]
+2022-05-27 14:20:51,991  root       DEBUG   Instantiating class [RegexSentenceSplitter]
+2022-05-27 14:20:51,991  root       INFO    Loading sentence joiner from class [programy.dialog.joiner.joiner.SentenceJoiner]
+2022-05-27 14:20:51,991  root       DEBUG   Processor path [programy.dialog.joiner.joiner.SentenceJoiner]
+2022-05-27 14:20:51,991  root       DEBUG   Importing module [programy.dialog.joiner.joiner]
+2022-05-27 14:20:51,991  root       DEBUG   Instantiating class [SentenceJoiner]
+2022-05-27 14:20:51,991  root       WARNING No configuration setting for translator!
+2022-05-27 14:20:51,991  root       WARNING No configuration setting for translator!
+2022-05-27 14:20:51,991  root       WARNING No configuration setting for sentiment analyser!
+2022-05-27 14:20:51,992  root       DEBUG   Processor path [programy.clients.botfactory.DefaultBotSelector]
+2022-05-27 14:20:51,992  root       DEBUG   Importing module [programy.clients.botfactory]
+2022-05-27 14:20:51,992  root       DEBUG   Instantiating class [DefaultBotSelector]
+2022-05-27 14:20:51,992  root       DEBUG   Loading Scheduler
+2022-05-27 14:20:51,992  root       DEBUG   Creating Background Scheduler WITHOUT config
+2022-05-27 14:20:51,995  root       DEBUG   Scheduler initiated...
+2022-05-27 14:20:51,995  root       DEBUG   Scheduler starting...
+2022-05-27 14:20:51,997  root       DEBUG   Loading Email Manager
+2022-05-27 14:20:51,997  root       DEBUG   Loading Trigger Manager
+2022-05-27 14:20:51,997  root       DEBUG   Processor path [programy.triggers.local.LocalTriggerManager]
+2022-05-27 14:20:51,997  root       DEBUG   Importing module [programy.triggers.local]
+2022-05-27 14:20:51,998  root       DEBUG   Instantiating class [LocalTriggerManager]
+2022-05-27 14:20:52,001  root       DEBUG   [Console] [bot] [brain] [testuser] - ##########################################################################################
+2022-05-27 14:20:52,001  root       DEBUG   [Console] [bot] [brain] [testuser] - Question (Console): chatbotint
+2022-05-27 14:20:52,001  root       DEBUG   [Console] [bot] [brain] [testuser] - Pre Processed (testuser): chatbotint
+2022-05-27 14:20:52,001  root       INFO    [Console] [bot] [brain] [testuser] - Creating new conversation for client testuser
+2022-05-27 14:20:52,003  root       DEBUG   [Console] [bot] [brain] [testuser] - Retrieving conversation for client testuser
+2022-05-27 14:20:52,003  root       INFO    [Console] [bot] [brain] [testuser] - Topic pattern = [*]
+2022-05-27 14:20:52,003  root       INFO    [Console] [bot] [brain] [testuser] - That pattern = [Sorry I don t have an answer for that]
+2022-05-27 14:20:52,003  root       DEBUG   [Console] [bot] [brain] [testuser] - AIML Parser matching sentence [chatbotint], topic=[*], that=[Sorry I don t have an answer for that] 
+2022-05-27 14:20:52,003  root       DEBUG   [Console] [bot] [brain] [testuser] - Matching [chatbotint __TOPIC__ * __THAT__ Sorry I don t have an answer for that]
+2022-05-27 14:20:52,003  root       DEBUG   [Console] [bot] [brain] [testuser] - No match for chatbotint, trying another path
+2022-05-27 14:20:52,004  root       DEBUG   [Console] [bot] [brain] [testuser] - Retrieving conversation for client testuser
+2022-05-27 14:20:52,004  root       INFO    [Console] [bot] [brain] [testuser] - Topic pattern = [*]
+2022-05-27 14:20:52,004  root       INFO    [Console] [bot] [brain] [testuser] - That pattern = [Sorry I don t have an answer for that]
+2022-05-27 14:20:52,004  root       DEBUG   [Console] [bot] [brain] [testuser] - AIML Parser matching sentence [YEMPTY], topic=[*], that=[Sorry I don t have an answer for that] 
+2022-05-27 14:20:52,004  root       DEBUG   [Console] [bot] [brain] [testuser] - Matching [YEMPTY __TOPIC__ * __THAT__ Sorry I don t have an answer for that]
+2022-05-27 14:20:52,004  root       DEBUG   [Console] [bot] [brain] [testuser] - No match for YEMPTY, trying another path
+2022-05-27 14:20:52,004  root       DEBUG   Writing conversation to [..\..\storage\conversations\Console_testuser.conv]
+2022-05-27 14:20:52,005  root       DEBUG   [Console] [bot] [brain] [testuser] - Event triggered [QUESTION_ASKED]
