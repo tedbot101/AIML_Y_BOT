@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>TEACHING</pattern>
+    <template>
+        <think><set name = "topic">TEACHING</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>TEACHING *</pattern>
+    <template><srai>TEACHING</srai></template>  
+</category>
+
+<category>
+    <pattern>EDUCATION</pattern>
+    <template><srai>TEACHING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ EDUCATION _</pattern>
+    <template><srai>TEACHING</srai></template>  
+</category>   
+
+<category>
+    <pattern>EDUCATION *</pattern>
+    <template><srai>TEACHING</srai></template>  
+</category>   
+
+
+<category>
+    <pattern>_ TEACHING_</pattern>
+    <template><srai>TEACHING</srai></template>  
+</category>
+
+
+
+<topic name="TEACHING">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        We do not have any Undergraduate cources for teaching
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+    I found 5 results \n
+            1. Professional Graduate Diploma in Education (Biology)Full-time 
+            2. Professional Graduate Diploma in Education (Chemistry)Full-time 
+            3. Professional Graduate Diploma in Education (English)Full-Time 
+            4. Professional Graduate Diploma in Education (Mathematics)Full-time 
+            5. Professional Graduate Diploma in Education (Physics)Full-time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>` 

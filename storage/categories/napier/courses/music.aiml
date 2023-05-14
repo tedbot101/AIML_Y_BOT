@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>MUSIC</pattern>
+    <template>
+        <think><set name = "topic">MUSIC</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>MUSIC *</pattern>
+    <template><srai>MUSIC</srai></template>  
+</category>
+
+<category>
+    <pattern>MUSIC</pattern>
+    <template><srai>MUSIC</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ MUSIC_</pattern>
+    <template><srai>MUSIC</srai></template>  
+</category>
+
+
+
+<topic name="MUSIC">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 3 results \n
+            1. Music - BA (Hons) Full-Time
+            2. Music - BMus (Hons) Full-Time
+            3. Popular Music - BA (Hons) Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+    I found 2 results \n
+       1. Music - MA Full-Time
+       2. Sound Design - MSc Distance learning
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

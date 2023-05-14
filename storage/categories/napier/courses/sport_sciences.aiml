@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>SPORT</pattern>
+    <template>
+        <think><set name = "topic">SPORT</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+
+<category>
+    <pattern>SPORT *</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>
+
+<category>
+    <pattern>SPORT</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ SPORT _</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>
+
+<category>
+    <pattern>EXERCISE *</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>
+
+<category>
+    <pattern>EXERCISE</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ EXERCISE_</pattern>
+    <template><srai>SPORT</srai></template>  
+</category>
+
+
+
+<topic name="SPORT">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 5 results \n
+            1. Business and Enterprise in Sport - BA (Hons) Online learning
+            2. Football Coaching, Performance and Development - BSc (Hons) Full-Time
+            3. Physical Activity and Health - BSc (Hons) Full-Time | Part-Time
+            4. Sport and Exercise Science - BSc (Hons) Full-Time | Part-Time
+            5. Sports Coaching - BSc (Hons) Full-Time | Part-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+    I found 2 results \n
+        1. Clinical Exercise Science - MSc Full-time | Part-time
+        2. Sport Performance Enhancement - MSc Full-time | Part-time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

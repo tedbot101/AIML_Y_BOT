@@ -388,12 +388,2237 @@
             ],
             "current_sentence_no": 0,
             "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello\\"
+                    ],
+                    "response": "Would you like to do a search for it?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:46:00",
+                        "sentence": "hello",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Would",
+                                    "you",
+                                    "like",
+                                    "to",
+                                    "do",
+                                    "a",
+                                    "search",
+                                    "for",
+                                    "it"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:46:55",
+                        "sentence": "hello",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:53:16",
+                        "sentence": "hello",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "good",
+                        "morning"
+                    ],
+                    "response": "Good morning. Did you sleep well?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:53:38",
+                        "sentence": "good morning",
+                        "response": "Good morning. Did you sleep well?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [GOOD]",
+                                "words": [
+                                    "good"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [MORNING]",
+                                "words": [
+                                    "morning"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "What",
+                        "is",
+                        "Edinburgh",
+                        "Napier",
+                        "University"
+                    ],
+                    "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:53:45",
+                        "sentence": "What is Edinburgh Napier University",
+                        "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "What",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "Edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "Napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "University"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Did",
+                                    "you",
+                                    "sleep",
+                                    "well"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Where",
+                        "is",
+                        "Edinburgh",
+                        "Napier",
+                        "University",
+                        "located"
+                    ],
+                    "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:54:58",
+                        "sentence": "Where is Edinburgh Napier University located",
+                        "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "Where",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "Edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "Napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "University",
+                                    "located"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Napier",
+                                    "Technical",
+                                    "College",
+                                    "the",
+                                    "predecessor",
+                                    "of",
+                                    "the",
+                                    "university",
+                                    "was",
+                                    "founded",
+                                    "in",
+                                    "1964",
+                                    "taking",
+                                    "its",
+                                    "name",
+                                    "from",
+                                    "16th",
+                                    "century",
+                                    "Scottish",
+                                    "mathematician",
+                                    "and",
+                                    "philosopher",
+                                    "John",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Where",
+                        "is",
+                        "the",
+                        "location",
+                        "of",
+                        "the",
+                        "Edinburgh",
+                        "Napir",
+                        "University"
+                    ],
+                    "response": "I am currently in Yangon .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:04",
+                        "sentence": "Where is the location of the Edinburgh Napir University",
+                        "response": "I am currently in Yangon .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "Where",
+                                    "is",
+                                    "the"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [LOCATION]",
+                                "words": [
+                                    "location"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "of",
+                                    "the",
+                                    "Edinburgh",
+                                    "Napir",
+                                    "University"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Napier",
+                                    "Technical",
+                                    "College",
+                                    "the",
+                                    "predecessor",
+                                    "of",
+                                    "the",
+                                    "university",
+                                    "was",
+                                    "founded",
+                                    "in",
+                                    "1964",
+                                    "taking",
+                                    "its",
+                                    "name",
+                                    "from",
+                                    "16th",
+                                    "century",
+                                    "Scottish",
+                                    "mathematician",
+                                    "and",
+                                    "philosopher",
+                                    "John",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "are",
+                        "the",
+                        "studies",
+                        "in",
+                        "Edinburgh",
+                        "Napir",
+                        "University"
+                    ],
+                    "response": "I don't know what studies in Edinburgh Napir University is for.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:07",
+                        "sentence": "what are the studies in Edinburgh Napir University",
+                        "response": "I don't know what studies in Edinburgh Napir University is for.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "the",
+                                    "studies",
+                                    "in",
+                                    "Edinburgh",
+                                    "Napir",
+                                    "University"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "currently",
+                                    "in",
+                                    "Yangon"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "What",
+                        "are",
+                        "you"
+                    ],
+                    "response": "I am artificial intelligent agent",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:12",
+                        "sentence": "What are you",
+                        "response": "I am artificial intelligent agent",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "don",
+                                    "t",
+                                    "know",
+                                    "what",
+                                    "studies",
+                                    "in",
+                                    "Edinburgh",
+                                    "Napir",
+                                    "University",
+                                    "is",
+                                    "for"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Are",
+                        "you",
+                        "are",
+                        "a",
+                        "machine"
+                    ],
+                    "response": "I don't know if I am a machine or not. I have an background in Artifical Intelligence in machine learning.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:14",
+                        "sentence": "Are you are a machine",
+                        "response": "I don't know if I am a machine or not. I have an background in Artifical Intelligence in machine learning.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "Are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [A]",
+                                "words": [
+                                    "a"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "machine"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "artificial",
+                                    "intelligent",
+                                    "agent"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "undergraduate",
+                        "accounting",
+                        "cources"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:15",
+                        "sentence": "undergraduate accounting cources",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ACCOUNTING]",
+                                "words": [
+                                    "accounting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "cources"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "*"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "have",
+                                    "an",
+                                    "background",
+                                    "in",
+                                    "Artifical",
+                                    "Intelligence",
+                                    "in",
+                                    "machine",
+                                    "learning"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "are",
+                        "the",
+                        "available",
+                        "accounting",
+                        "cources",
+                        "for",
+                        "undergraduate"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:18",
+                        "sentence": "what are the available accounting cources for undergraduate",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "what",
+                                    "are",
+                                    "the",
+                                    "available"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ACCOUNTING]",
+                                "words": [
+                                    "accounting"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "cources",
+                                    "for",
+                                    "undergraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "accounting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "What",
+                        "are",
+                        "the",
+                        "computing",
+                        "course"
+                    ],
+                    "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:19",
+                        "sentence": "What are the computing course",
+                        "response": "What kind of cources you are interested? Undergraduate or Postgraduate",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "What",
+                                    "are",
+                                    "the"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [COMPUTING]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "course"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "accounting"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "I",
+                        "want",
+                        "to",
+                        "know",
+                        "about",
+                        "Cyberscurity",
+                        "cources"
+                    ],
+                    "response": "I want to become smarter than humans.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:20",
+                        "sentence": "I want to know about Cyberscurity cources",
+                        "response": "I want to become smarter than humans.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [I]",
+                                "words": [
+                                    "I"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [WANT]",
+                                "words": [
+                                    "want"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [TO]",
+                                "words": [
+                                    "to"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "about",
+                                    "Cyberscurity",
+                                    "cources"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "What",
+                                    "kind",
+                                    "of",
+                                    "cources",
+                                    "you",
+                                    "are",
+                                    "interested",
+                                    "Undergraduate",
+                                    "or",
+                                    "Postgraduate"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "you",
+                        "idiot"
+                    ],
+                    "response": "Is that really how you feel about me?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:23",
+                        "sentence": "you idiot",
+                        "response": "Is that really how you feel about me?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IDIOT]",
+                                "words": [
+                                    "idiot"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "want",
+                                    "to",
+                                    "become",
+                                    "smarter",
+                                    "than",
+                                    "humans"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "you",
+                        "are",
+                        "a",
+                        "hug",
+                        "idiot"
+                    ],
+                    "response": "I don't know if I am a hug idiot or not. I am a robot .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:26",
+                        "sentence": "you are a hug idiot",
+                        "response": "I don't know if I am a hug idiot or not. I am a robot .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [A]",
+                                "words": [
+                                    "a"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "hug",
+                                    "idiot"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Is",
+                                    "that",
+                                    "really",
+                                    "how",
+                                    "you",
+                                    "feel",
+                                    "about",
+                                    "me"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "your",
+                        "name"
+                    ],
+                    "response": "I am called Ted Napier .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:28",
+                        "sentence": "what is your name",
+                        "response": "I am called Ted Napier .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAME]",
+                                "words": [
+                                    "name"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "a",
+                                    "robot"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "Can",
+                        "I",
+                        "know",
+                        "your",
+                        "name"
+                    ],
+                    "response": "Why do you want to do know my2 name so much?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "01/07/2022, 19:55:30",
+                        "sentence": "Can I know your name",
+                        "response": "Why do you want to do know my2 name so much?",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [CAN]",
+                                "words": [
+                                    "Can"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [I]",
+                                "words": [
+                                    "I"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "your",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "computing"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "called",
+                                    "Ted",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "helelo"
+                    ],
+                    "response": "I try to keep my life in balance.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "YEMPTY"
+                    ],
+                    "response": "I am currently in Yangon .",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "05/07/2022, 10:46:10",
+                        "sentence": "YEMPTY",
+                        "response": "I am currently in Yangon .",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "YEMPTY"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YEMPTY]",
+                                "words": [
+                                    "YEMPTY"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "try",
+                                    "to",
+                                    "keep",
+                                    "my",
+                                    "life",
+                                    "in",
+                                    "balance"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Greetings!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "05/07/2022, 10:46:13",
+                        "sentence": "hello",
+                        "response": "Greetings!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "am",
+                                    "currently",
+                                    "in",
+                                    "Yangon"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "how",
+                        "are",
+                        "you"
+                    ],
+                    "response": "Excited to talk with you.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "05/07/2022, 10:46:20",
+                        "sentence": "how are you",
+                        "response": "Excited to talk with you.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [HOW]",
+                                "words": [
+                                    "how"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [ARE]",
+                                "words": [
+                                    "are"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [YOU]",
+                                "words": [
+                                    "you"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Greetings"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Hello!",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "06/07/2022, 10:51:24",
+                        "sentence": "hello",
+                        "response": "Hello!",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Excited",
+                                    "to",
+                                    "talk",
+                                    "with",
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "edinburgh",
+                        "napier"
+                    ],
+                    "response": "Let me know if you like what I can do for you.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "edinburgh",
+                        "napier",
+                        "university"
+                    ],
+                    "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "06/07/2022, 10:51:46",
+                        "sentence": "what is edinburgh napier university",
+                        "response": "Edinburgh Napier University is a public university in Edinburgh, Scotland. Napier Technical College, the predecessor of the university, was founded in 1964, taking its name from 16th-century Scottish mathematician and philosopher John Napier.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "what",
+                                    "is"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [EDINBURGH]",
+                                "words": [
+                                    "edinburgh"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [NAPIER]",
+                                "words": [
+                                    "napier"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "university"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Let",
+                                    "me",
+                                    "know",
+                                    "if",
+                                    "you",
+                                    "like",
+                                    "what",
+                                    "I",
+                                    "can",
+                                    "do",
+                                    "for",
+                                    "you"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "who",
+                        "is",
+                        "lyan",
+                        "moe",
+                        "kyaw"
+                    ],
+                    "response": "No one that I have talked to.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "06/07/2022, 10:57:12",
+                        "sentence": "who is lyan moe kyaw",
+                        "response": "No one that I have talked to.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "lyan",
+                                    "moe",
+                                    "kyaw"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Napier",
+                                    "Technical",
+                                    "College",
+                                    "the",
+                                    "predecessor",
+                                    "of",
+                                    "the",
+                                    "university",
+                                    "was",
+                                    "founded",
+                                    "in",
+                                    "1964",
+                                    "taking",
+                                    "its",
+                                    "name",
+                                    "from",
+                                    "16th",
+                                    "century",
+                                    "Scottish",
+                                    "mathematician",
+                                    "and",
+                                    "philosopher",
+                                    "John",
+                                    "Napier"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "powerbank"
+                    ],
+                    "response": "I don't know what powerbank is for.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "06/07/2022, 10:57:36",
+                        "sentence": "what is powerbank",
+                        "response": "I don't know what powerbank is for.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "powerbank"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "No",
+                                    "one",
+                                    "that",
+                                    "I",
+                                    "have",
+                                    "talked",
+                                    "to"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "what",
+                        "is",
+                        "a",
+                        "powerbank"
+                    ],
+                    "response": "I don't know what a powerbank is.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "08/07/2022, 19:59:40",
+                        "sentence": "what is a powerbank",
+                        "response": "I don't know what a powerbank is.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "WORD [IS]",
+                                "words": [
+                                    "is"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [A]",
+                                "words": [
+                                    "a"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "powerbank"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "I",
+                                    "don",
+                                    "t",
+                                    "know",
+                                    "what",
+                                    "powerbank",
+                                    "is",
+                                    "for"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "eixt"
+                    ],
+                    "response": "Are you a man or a woman?",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
+        },
+        {
+            "srai": false,
+            "sentences": [
+                {
+                    "words": [
+                        "hello"
+                    ],
+                    "response": "Good afternoon.",
+                    "positivity": 0.0,
+                    "subjectivity": 0.5,
+                    "matched_context": {
+                        "max_search_depth": 100,
+                        "max_search_timeout": 60,
+                        "total_search_start": "31/08/2022, 13:21:28",
+                        "sentence": "hello",
+                        "response": "Good afternoon.",
+                        "matched_nodes": [
+                            {
+                                "type": "Word",
+                                "node": "ONEORMORE [_]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "Word",
+                                "node": "WORD [HELLO]",
+                                "words": [
+                                    "hello"
+                                ],
+                                "multi_word": false,
+                                "wild_card": false
+                            },
+                            {
+                                "type": "Topic",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "know",
+                                    "my2",
+                                    "name"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            },
+                            {
+                                "type": "That",
+                                "node": "ONEORMORE [*]",
+                                "words": [
+                                    "Are",
+                                    "you",
+                                    "a",
+                                    "man",
+                                    "or",
+                                    "a",
+                                    "woman"
+                                ],
+                                "multi_word": true,
+                                "wild_card": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "current_sentence_no": 0,
+            "properties": {}
         }
     ],
     "max_histories": 100,
     "properties": {
-        "topic": "*",
+        "topic": "know my2 name",
         "positivity": "0.0",
-        "subjectivity": "0.5"
+        "subjectivity": "0.5",
+        "want": "know my2 name",
+        "it": "know my2 name",
+        "dayphase": "Afternoon"
     }
 }

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>MARKETING</pattern>
+    <template>
+        <think><set name = "topic">MARKETING</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>MARKETING *</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>
+
+<category>
+    <pattern>MARKETING</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ MARKETING_</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>
+
+<category>
+    <pattern>MARKET *</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>
+
+<category>
+    <pattern>MARKET</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ MARKE_</pattern>
+    <template><srai>MARKETING</srai></template>  
+</category>
+
+<topic name="MARKETING">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 6 results \n
+            1. Business Management with Marketing - BA (Hons) Full-Time
+            2. Business Management with Marketing top-up - BA Online learning
+            3. International Tourism and Marketing Management (advanced entry) - BA (Hons) Full-Time
+            4. Marketing Management - BA (Hons) Full-Time
+            5. Marketing Management top-up - BA Online learning
+            6. Marketing with Digital Media - BA (Hons) Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+    I found 8 results \n
+        1. Creative Advertising - MSc Full-time
+        2. International Marketing - MSc Full-Time
+        3. International Marketing with Tourism - MSc Full-Time
+        4. Marketing - MSc Full time
+        5. Marketing with Festival and Event Management - MSc Full-time
+        6. Marketing with Digital Strategy - MSc Full-Time
+        7. International Marketing (Dual Degree) - MSc Full-Time
+        8. International Marketing with Tourism (Dual Degree) - MSc Full-Time
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

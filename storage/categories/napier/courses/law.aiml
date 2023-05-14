@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>LAW</pattern>
+    <template>
+        <think><set name = "topic">LAW</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>LAW *</pattern>
+    <template><srai>LAW</srai></template>  
+</category>
+
+<category>
+    <pattern>LAW</pattern>
+    <template><srai>LAW</srai></template>  
+</category>   
+
+<category>
+    <pattern>_ LAW_</pattern>
+    <template><srai>LAW</srai></template>  
+</category>
+
+
+
+<topic name="LAW">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+        I found 2 results \n
+        1. Law - LLB / LLB (Hons) Full-Time
+        2. Law (Graduate Entry) - LLB Full-Time
+
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+       We currently do not provide postgraduate courses yet 
+    </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>

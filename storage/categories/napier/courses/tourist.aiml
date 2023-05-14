@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>TOURISM</pattern>
+    <template>
+        <think><set name = "topic">TOURISM</set></think>
+        What kind of cources you are interested? Undergraduate or Postgraduate</template>  
+</category>
+
+<category>
+    <pattern>TOURISM *</pattern>
+    <template><srai>TOURISM</srai></template>  
+</category>
+
+<category>
+    <pattern>_ TOURISM_</pattern>
+    <template><srai>TOURISM</srai></template>  
+</category>
+
+
+<category>
+    <pattern>EVENT MANAGEMENT</pattern>
+    <template><srai>TOURISM</srai></template>  
+</category>
+
+
+<category>
+    <pattern>EVENT MANAGEMENT *</pattern>
+    <template><srai>TOURISM</srai></template>  
+</category>
+
+<category>
+    <pattern>_ EVENT MANAGEMENT _</pattern>
+    <template><srai>TOURISM</srai></template>  
+</category>
+
+
+<topic name="TOURISM">
+
+<category>
+    <pattern>UNDERGRADUATE</pattern>
+    <!--  -->
+    <template>
+    I found 9 results \n
+        1. Business Management with Hospitality top-up - BA Online Learning
+        2. International Festival and Event Management - BA (Hons) Full-Time
+        3. International Festival and Event Management with Entrepreneurship (advanced entry) - BA (Hons) Full-Time
+        4. International Hospitality Management - BA (Hons) Full-Time
+        5. International Hospitality Management and Festival and Events - BA (Hons) Full-Time
+        6. International Hospitality Management and Tourism - BA (Hons) Full-Time
+        7. International Tourism and Airline Management - BA (Hons) Full-Time
+        8. International Tourism and Marketing Management (advanced entry) - BA (Hons) Full-Time
+        9. International Tourism Management - BA (Hons) Full-Time
+    </template>
+</category>
+<category>
+    <pattern>UNDERGRAD *</pattern>
+    <!--  -->
+    <template><srai>UNDERGRADUATE</srai></template>
+</category>
+   
+<category>
+    <pattern>POSTGRADUATE</pattern>
+    
+    <template>
+    I found 12 results \n
+        1. MBA (Events Management) - MBA Online learning
+        2. MBA (Hospitality and Tourism Management) - MBA Online learning
+        4. Business Event Management - MSc Online Learning
+        5. Business Management (Events) - MSc Online learning
+        6. Business Management (Tourism and Hospitality) - MSc Online learning
+        7. Crowded Space Design Management Risk Analysis (work-based) - MSc Full-Time
+        8. Global Hospitality Management (Extended) - MSc Full-Time
+        9. International Festival and Event Management - MSc Full time | Part-time
+        10. International Heritage and Cultural Tourism Management - MSc Full time | Part-time
+        11. International Tourism Destination Management - MSc Full time | Part-time
+        12. Marketing with Festival and Event Management - MSc Full-time
+            </template>
+</category> 
+<category>
+    <pattern>POSTGRAD *</pattern>
+    
+    <template><srai>POSTGRADUATE</srai></template>
+</category> 
+</topic>
+
+</aiml>
